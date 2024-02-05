@@ -1,0 +1,6 @@
+<svg class="tn-svg-line tn-svg-line--RER_E traffic-info-line-container__picto" viewBox="0 0 48 48"
+     xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M37.1979 48H10.8021C4.84232 48 0 43.1577 0 37.1979V10.8021C0 4.84233 4.84232 0 10.8021 0H37.1979C43.1577 0 48 4.84233 48 10.8021V37.1979C48 43.1577 43.1577 48 37.1979 48Z" fill="#c04191"></path>
+    <path d="M15.8643 36.69V11.2593H31.5934V15.8307H21.4685V21.0455H31.2209V25.4307H21.4685V32.0847H32.1182V36.6561H15.8643V36.69Z"
+          class="svg-line-number" fill="#fff"></path>
+</svg>

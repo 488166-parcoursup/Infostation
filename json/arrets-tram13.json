@@ -1,0 +1,410 @@
+[
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481074",
+        "stop_name": "All\u00e9e Royale",
+        "stop_lon": "2.0787693940172525",
+        "stop_lat": "48.81543826184188",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0787693940172525,
+            "lat": 48.81543826184188
+        },
+        "nom_commune": "Saint-Cyr-l'\u00c9cole",
+        "code_insee": "78545"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481066",
+        "stop_name": "Saint-Cyr",
+        "stop_lon": "2.074185200862928",
+        "stop_lat": "48.799024370608734",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.074185200862928,
+            "lat": 48.799024370608734
+        },
+        "nom_commune": "Versailles",
+        "code_insee": "78646"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481070",
+        "stop_name": "Fourqueux - Bel Air",
+        "stop_lon": "2.069983869456418",
+        "stop_lat": "48.894920794013856",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.069983869456418,
+            "lat": 48.894920794013856
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481067",
+        "stop_name": "Saint-Germain-en-Laye",
+        "stop_lon": "2.095222185913237",
+        "stop_lat": "48.90171533891691",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.095222185913237,
+            "lat": 48.90171533891691
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480932",
+        "stop_name": "Bailly",
+        "stop_lon": "2.0741870041785417",
+        "stop_lat": "48.83727644649784",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0741870041785417,
+            "lat": 48.83727644649784
+        },
+        "nom_commune": "Bailly",
+        "code_insee": "78043"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481075",
+        "stop_name": "Les Portes de Saint-Cyr",
+        "stop_lon": "2.0773050548633556",
+        "stop_lat": "48.80660367020067",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0773050548633556,
+            "lat": 48.80660367020067
+        },
+        "nom_commune": "Versailles",
+        "code_insee": "78646"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480936",
+        "stop_name": "Les Portes de Saint-Cyr",
+        "stop_lon": "2.0770055279674153",
+        "stop_lat": "48.806601357844244",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0770055279674153,
+            "lat": 48.806601357844244
+        },
+        "nom_commune": "Versailles",
+        "code_insee": "78646"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481073",
+        "stop_name": "Bailly",
+        "stop_lon": "2.074188282029773",
+        "stop_lat": "48.8372045045207",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.074188282029773,
+            "lat": 48.8372045045207
+        },
+        "nom_commune": "Bailly",
+        "code_insee": "78043"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480925",
+        "stop_name": "Camp des Loges",
+        "stop_lon": "2.0816788273095628",
+        "stop_lat": "48.91393321731568",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0816788273095628,
+            "lat": 48.91393321731568
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481068",
+        "stop_name": "Camp des Loges",
+        "stop_lon": "2.0816642323152843",
+        "stop_lat": "48.91398706552279",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0816642323152843,
+            "lat": 48.91398706552279
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481038",
+        "stop_name": "Mareil-Marly",
+        "stop_lon": "2.0791906850874597",
+        "stop_lat": "48.881042923550254",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0791906850874597,
+            "lat": 48.881042923550254
+        },
+        "nom_commune": "Mareil-Marly",
+        "code_insee": "78367"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481072",
+        "stop_name": "Saint-Nom-la-Bret\u00e8che For\u00eat de Marly",
+        "stop_lon": "2.0512307734356505",
+        "stop_lat": "48.8678826498888",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0512307734356505,
+            "lat": 48.8678826498888
+        },
+        "nom_commune": "L'\u00c9tang-la-Ville",
+        "code_insee": "78224"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480908",
+        "stop_name": "Saint-Cyr",
+        "stop_lon": "2.0738437612886567",
+        "stop_lat": "48.799084685334606",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0738437612886567,
+            "lat": 48.799084685334606
+        },
+        "nom_commune": "Versailles",
+        "code_insee": "78646"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481069",
+        "stop_name": "Lisi\u00e8re Pereire",
+        "stop_lon": "2.0730554490728603",
+        "stop_lat": "48.90320062581815",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0730554490728603,
+            "lat": 48.90320062581815
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480940",
+        "stop_name": "Fourqueux - Bel Air",
+        "stop_lon": "2.0701067715199954",
+        "stop_lat": "48.894912754917016",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0701067715199954,
+            "lat": 48.894912754917016
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481071",
+        "stop_name": "L'Etang - Les Sablons",
+        "stop_lon": "2.0689434997075624",
+        "stop_lat": "48.872248800953116",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0689434997075624,
+            "lat": 48.872248800953116
+        },
+        "nom_commune": "L'\u00c9tang-la-Ville",
+        "code_insee": "78224"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:481065",
+        "stop_name": "Noisy-le-Roi",
+        "stop_lon": "2.061579515094916",
+        "stop_lat": "48.8413154314931",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.061579515094916,
+            "lat": 48.8413154314931
+        },
+        "nom_commune": "Noisy-le-Roi",
+        "code_insee": "78455"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480934",
+        "stop_name": "All\u00e9e Royale",
+        "stop_lon": "2.078701149286631",
+        "stop_lat": "48.81544673013799",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.078701149286631,
+            "lat": 48.81544673013799
+        },
+        "nom_commune": "Saint-Cyr-l'\u00c9cole",
+        "code_insee": "78545"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480906",
+        "stop_name": "Saint-Nom-la-Bret\u00e8che For\u00eat de Marly",
+        "stop_lon": "2.051026147296355",
+        "stop_lat": "48.86789002137647",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.051026147296355,
+            "lat": 48.86789002137647
+        },
+        "nom_commune": "L'\u00c9tang-la-Ville",
+        "code_insee": "78224"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480942",
+        "stop_name": "Mareil-Marly",
+        "stop_lon": "2.079081610504488",
+        "stop_lat": "48.881042084554146",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.079081610504488,
+            "lat": 48.881042084554146
+        },
+        "nom_commune": "Mareil-Marly",
+        "code_insee": "78367"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480928",
+        "stop_name": "Lisi\u00e8re Pereire",
+        "stop_lon": "2.072877967433932",
+        "stop_lat": "48.90320824555232",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.072877967433932,
+            "lat": 48.90320824555232
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480938",
+        "stop_name": "Noisy-le-Roi",
+        "stop_lon": "2.061622167810258",
+        "stop_lat": "48.841216832443024",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.061622167810258,
+            "lat": 48.841216832443024
+        },
+        "nom_commune": "Noisy-le-Roi",
+        "code_insee": "78455"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480930",
+        "stop_name": "L'Etang - Les Sablons",
+        "stop_lon": "2.0688326753103112",
+        "stop_lat": "48.872346869633176",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0688326753103112,
+            "lat": 48.872346869633176
+        },
+        "nom_commune": "L'\u00c9tang-la-Ville",
+        "code_insee": "78224"
+    },
+    {
+        "id": "IDFM:C02344",
+        "route_long_name": "T13",
+        "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/62c295e6af528_2400_T13.pdf\", \"label\": \"Plan (mis \u00e0 jour le 04/07/2022)\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:df07f370-9b0b-3987-9667-ecec2cd90b4a\", \"from\": \"Saint-Cyr\", \"to\": \"Saint-Germain-en-Laye\", \"first\": \"06:00\", \"last\": \"00:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"07:00\", \"last\": \"13:00\"}, {\"routeId\": \"route:IDFM:SNCF:2f1956a3-6842-33d3-a7e9-011a41e1e1cb\", \"from\": \"Saint-Germain-en-Laye\", \"to\": \"Saint-Cyr\", \"first\": \"06:06\", \"last\": \"00:10\"}]",
+        "stop_id": "IDFM:480904",
+        "stop_name": "Saint-Germain-en-Laye",
+        "stop_lon": "2.095045494221349",
+        "stop_lat": "48.9016780302558",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.095045494221349,
+            "lat": 48.9016780302558
+        },
+        "nom_commune": "Saint-Germain-en-Laye",
+        "code_insee": "78551"
+    }
+]

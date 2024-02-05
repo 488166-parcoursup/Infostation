@@ -1,0 +1,614 @@
+[
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43191",
+    "stop_name": "Sartrouville",
+    "stop_lon": "2.1572200388507317",
+    "stop_lat": "48.93769529363442",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1572200388507317,
+      "lat": 48.93769529363442
+    },
+    "nom_commune": "Sartrouville",
+    "code_insee": "78586"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43241",
+    "stop_name": "Chaville Rive Droite",
+    "stop_lon": "2.1885894806735937",
+    "stop_lat": "48.81299614830529",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1885894806735937,
+      "lat": 48.81299614830529
+    },
+    "nom_commune": "Chaville",
+    "code_insee": "92022"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58566",
+    "stop_name": "Paris Saint-Lazare",
+    "stop_lon": "2.3244386552397684",
+    "stop_lat": "48.87747568635212",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3244386552397684,
+      "lat": 48.87747568635212
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43112",
+    "stop_name": "Clichy - Levallois",
+    "stop_lon": "2.2974715210323566",
+    "stop_lat": "48.897501127112044",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2974715210323566,
+      "lat": 48.897501127112044
+    },
+    "nom_commune": "Levallois-Perret",
+    "code_insee": "92044"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43069",
+    "stop_name": "Asni\u00e8res-sur-Seine",
+    "stop_lon": "2.2832114335873186",
+    "stop_lat": "48.90587474197106",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2832114335873186,
+      "lat": 48.90587474197106
+    },
+    "nom_commune": "Asni\u00e8res-sur-Seine",
+    "code_insee": "92004"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47923",
+    "stop_name": "B\u00e9con les Bruy\u00e8res",
+    "stop_lon": "2.268790065027107",
+    "stop_lat": "48.90549079769296",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.268790065027107,
+      "lat": 48.90549079769296
+    },
+    "nom_commune": "Courbevoie",
+    "code_insee": "92026"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:470549",
+    "stop_name": "La D\u00e9fense",
+    "stop_lon": "2.238418596250407",
+    "stop_lat": "48.892229801568206",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.238418596250407,
+      "lat": 48.892229801568206
+    },
+    "nom_commune": "Puteaux",
+    "code_insee": "92062"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43205",
+    "stop_name": "Suresnes Mont Val\u00e9rien",
+    "stop_lon": "2.2210567895582143",
+    "stop_lat": "48.871689522026664",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2210567895582143,
+      "lat": 48.871689522026664
+    },
+    "nom_commune": "Suresnes",
+    "code_insee": "92073"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43216",
+    "stop_name": "Vaucresson",
+    "stop_lon": "2.152674671677768",
+    "stop_lat": "48.836684490249404",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.152674671677768,
+      "lat": 48.836684490249404
+    },
+    "nom_commune": "Vaucresson",
+    "code_insee": "92076"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:473506",
+    "stop_name": "Louveciennes",
+    "stop_lon": "2.1227777344789676",
+    "stop_lat": "48.8612602848357",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1227777344789676,
+      "lat": 48.8612602848357
+    },
+    "nom_commune": "Louveciennes",
+    "code_insee": "78350"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47937",
+    "stop_name": "L'\u00c9tang-la-Ville",
+    "stop_lon": "2.076893601882248",
+    "stop_lat": "48.86818814962987",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.076893601882248,
+      "lat": 48.86818814962987
+    },
+    "nom_commune": "L'\u00c9tang-la-Ville",
+    "code_insee": "78224"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:473109",
+    "stop_name": "Maisons-Laffitte",
+    "stop_lon": "2.1446722659338855",
+    "stop_lat": "48.94574060746957",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1446722659338855,
+      "lat": 48.94574060746957
+    },
+    "nom_commune": "Maisons-Laffitte",
+    "code_insee": "78358"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47412",
+    "stop_name": "La Garenne-Colombes",
+    "stop_lon": "2.2397947530458273",
+    "stop_lat": "48.90957685679064",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2397947530458273,
+      "lat": 48.90957685679064
+    },
+    "nom_commune": "Colombes",
+    "code_insee": "92025"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45493",
+    "stop_name": "Pont Cardinet",
+    "stop_lon": "2.312950431098551",
+    "stop_lat": "48.88839532721545",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.312950431098551,
+      "lat": 48.88839532721545
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43118",
+    "stop_name": "Courbevoie",
+    "stop_lon": "2.249189818087758",
+    "stop_lat": "48.89861561377405",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.249189818087758,
+      "lat": 48.89861561377405
+    },
+    "nom_commune": "Courbevoie",
+    "code_insee": "92026"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43184",
+    "stop_name": "Puteaux",
+    "stop_lon": "2.2336164976472146",
+    "stop_lat": "48.8833721630466",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2336164976472146,
+      "lat": 48.8833721630466
+    },
+    "nom_commune": "Puteaux",
+    "code_insee": "92062"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47790",
+    "stop_name": "Bougival",
+    "stop_lon": "2.132028029856739",
+    "stop_lat": "48.85379323051655",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.132028029856739,
+      "lat": 48.85379323051655
+    },
+    "nom_commune": "La Celle-Saint-Cloud",
+    "code_insee": "78126"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43248",
+    "stop_name": "Marly-le-Roi",
+    "stop_lon": "2.0965372930677657",
+    "stop_lat": "48.87152941199376",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0965372930677657,
+      "lat": 48.87152941199376
+    },
+    "nom_commune": "Marly-le-Roi",
+    "code_insee": "78372"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47879",
+    "stop_name": "Neuville Universit\u00e9",
+    "stop_lon": "2.078348820578231",
+    "stop_lat": "49.01374275942672",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.078348820578231,
+      "lat": 49.01374275942672
+    },
+    "nom_commune": "Neuville-sur-Oise",
+    "code_insee": "95450"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46647",
+    "stop_name": "Ach\u00e8res Ville",
+    "stop_lon": "2.0777265246565433",
+    "stop_lat": "48.970643570814424",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0777265246565433,
+      "lat": 48.970643570814424
+    },
+    "nom_commune": "Ach\u00e8res",
+    "code_insee": "78005"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43170",
+    "stop_name": "Nanterre Universit\u00e9",
+    "stop_lon": "2.213536495127317",
+    "stop_lat": "48.90112974604822",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.213536495127317,
+      "lat": 48.90112974604822
+    },
+    "nom_commune": "Nanterre",
+    "code_insee": "92050"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46689",
+    "stop_name": "Viroflay Rive Droite",
+    "stop_lon": "2.1676545647835206",
+    "stop_lat": "48.805472581494975",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1676545647835206,
+      "lat": 48.805472581494975
+    },
+    "nom_commune": "Viroflay",
+    "code_insee": "78686"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43196",
+    "stop_name": "Saint-Cloud",
+    "stop_lon": "2.2176312182469986",
+    "stop_lat": "48.846058536430505",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2176312182469986,
+      "lat": 48.846058536430505
+    },
+    "nom_commune": "Saint-Cloud",
+    "code_insee": "92064"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47880",
+    "stop_name": "La Celle-Saint-Cloud",
+    "stop_lon": "2.138236726142033",
+    "stop_lat": "48.84262523059504",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.138236726142033,
+      "lat": 48.84262523059504
+    },
+    "nom_commune": "La Celle-Saint-Cloud",
+    "code_insee": "78126"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43104",
+    "stop_name": "Cergy le Haut",
+    "stop_lon": "2.011579068023536",
+    "stop_lat": "49.04823262405815",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.011579068023536,
+      "lat": 49.04823262405815
+    },
+    "nom_commune": "Cergy",
+    "code_insee": "95127"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:44559",
+    "stop_name": "Cergy Pr\u00e9fecture",
+    "stop_lon": "2.0797809490013073",
+    "stop_lat": "49.036306683133965",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0797809490013073,
+      "lat": 49.036306683133965
+    },
+    "nom_commune": "Cergy",
+    "code_insee": "95127"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43114",
+    "stop_name": "Conflans Fin d'Oise",
+    "stop_lon": "2.0746499245710193",
+    "stop_lat": "48.991156287258484",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0746499245710193,
+      "lat": 48.991156287258484
+    },
+    "nom_commune": "Conflans-Sainte-Honorine",
+    "code_insee": "78172"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43082",
+    "stop_name": "Houilles - Carri\u00e8res-sur-Seine",
+    "stop_lon": "2.1851757042018707",
+    "stop_lat": "48.92034757911033",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1851757042018707,
+      "lat": 48.92034757911033
+    },
+    "nom_commune": "Houilles",
+    "code_insee": "78311"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47969",
+    "stop_name": "Les Vall\u00e9es",
+    "stop_lon": "2.2572045759752384",
+    "stop_lat": "48.91365276270651",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2572045759752384,
+      "lat": 48.91365276270651
+    },
+    "nom_commune": "Colombes",
+    "code_insee": "92025"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43167",
+    "stop_name": "Montreuil",
+    "stop_lon": "2.1528278413582385",
+    "stop_lat": "48.805965217521",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1528278413582385,
+      "lat": 48.805965217521
+    },
+    "nom_commune": "Versailles",
+    "code_insee": "78646"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47770",
+    "stop_name": "Garches - Marnes-la-Coquette",
+    "stop_lon": "2.187092668770097",
+    "stop_lat": "48.838254440887944",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.187092668770097,
+      "lat": 48.838254440887944
+    },
+    "nom_commune": "Garches",
+    "code_insee": "92033"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47954",
+    "stop_name": "Saint-Nom-la-Bret\u00e8che For\u00eat de Marly",
+    "stop_lon": "2.051299627156171",
+    "stop_lat": "48.867096240827834",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.051299627156171,
+      "lat": 48.867096240827834
+    },
+    "nom_commune": "L'\u00c9tang-la-Ville",
+    "code_insee": "78224"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47897",
+    "stop_name": "Cergy Saint-Christophe",
+    "stop_lon": "2.0345219282999176",
+    "stop_lat": "49.049642166828754",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0345219282999176,
+      "lat": 49.049642166828754
+    },
+    "nom_commune": "Cergy",
+    "code_insee": "95127"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47767",
+    "stop_name": "S\u00e8vres - Ville-d'Avray",
+    "stop_lon": "2.2007294495659546",
+    "stop_lat": "48.827253206930806",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2007294495659546,
+      "lat": 48.827253206930806
+    },
+    "nom_commune": "S\u00e8vres",
+    "code_insee": "92072"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:44602",
+    "stop_name": "Versailles Rive Droite",
+    "stop_lon": "2.1368871000602927",
+    "stop_lat": "48.80949051640336",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1368871000602927,
+      "lat": 48.80949051640336
+    },
+    "nom_commune": "Versailles",
+    "code_insee": "78646"
+  },
+  {
+    "id": "IDFM:C01740",
+    "route_long_name": "L",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-l.pdf\", \"label\": \"Plan de la ligne Transilien L\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"05:57\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:e0e3a2d3-7047-3589-bd59-90254f61e43e\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Nanterre Universit\u00e9\", \"first\": \"06:14\", \"last\": \"23:31\"}, {\"routeId\": \"route:IDFM:SNCF:3970c106-3285-3a8d-9f1d-4527ebb44581\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"first\": \"05:58\", \"last\": \"23:41\"}, {\"routeId\": \"route:IDFM:SNCF:0b4d8a83-3c41-3a68-b42a-df896e2c7c5b\", \"from\": \"Paris Saint-Lazare\", \"to\": \"Versailles Rive Droite\", \"first\": \"05:50\", \"last\": \"23:59\"}, {\"routeId\": \"route:IDFM:SNCF:c825de7e-7dd7-32e6-9d7f-8f0ca55734be\", \"from\": \"Nanterre Universit\u00e9\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:06\", \"last\": \"23:45\"}, {\"routeId\": \"route:IDFM:SNCF:6f4dd6d6-a279-3a26-8c5f-506b0daa1c10\", \"from\": \"Saint-Nom-la-Bret\u00e8che For\u00eat de Marly\", \"to\": \"Paris Saint-Lazare\", \"first\": \"06:04\", \"last\": \"23:48\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:422065",
+    "stop_name": "Le Val d'Or",
+    "stop_lon": "2.2165513289937904",
+    "stop_lat": "48.85625374079433",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2165513289937904,
+      "lat": 48.85625374079433
+    },
+    "nom_commune": "Saint-Cloud",
+    "code_insee": "92064"
+  }
+]

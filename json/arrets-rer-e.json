@@ -1,0 +1,410 @@
+[
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47901",
+    "stop_name": "Le Raincy - Villemomble - Montfermeil",
+    "stop_lon": "2.5130610056844116",
+    "stop_lat": "48.8888544132907",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5130610056844116,
+      "lat": 48.8888544132907
+    },
+    "nom_commune": "Villemomble",
+    "code_insee": "93077"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43074",
+    "stop_name": "\u00c9merainville - Pontault-Combault",
+    "stop_lon": "2.618502939849115",
+    "stop_lat": "48.80587944608123",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.618502939849115,
+      "lat": 48.80587944608123
+    },
+    "nom_commune": "\u00c9merainville",
+    "code_insee": "77169"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58267",
+    "stop_name": "Les Boullereaux Champigny",
+    "stop_lon": "2.511990843607618",
+    "stop_lat": "48.82486398816196",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.511990843607618,
+      "lat": 48.82486398816196
+    },
+    "nom_commune": "Champigny-sur-Marne",
+    "code_insee": "94017"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47900",
+    "stop_name": "Val de Fontenay",
+    "stop_lon": "2.4890536307751616",
+    "stop_lat": "48.85424654032024",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4890536307751616,
+      "lat": 48.85424654032024
+    },
+    "nom_commune": "Fontenay-sous-Bois",
+    "code_insee": "94033"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58572",
+    "stop_name": "Magenta",
+    "stop_lon": "2.358695908637114",
+    "stop_lat": "48.88081039411524",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.358695908637114,
+      "lat": 48.88081039411524
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58718",
+    "stop_name": "Haussmann Saint-Lazare",
+    "stop_lon": "2.328646179742093",
+    "stop_lat": "48.874998862001185",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.328646179742093,
+      "lat": 48.874998862001185
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43096",
+    "stop_name": "Bondy",
+    "stop_lon": "2.4795800358385867",
+    "stop_lat": "48.893965864676495",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4795800358385867,
+      "lat": 48.893965864676495
+    },
+    "nom_commune": "Bondy",
+    "code_insee": "93010"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43211",
+    "stop_name": "Vaires - Torcy",
+    "stop_lon": "2.637705554664271",
+    "stop_lat": "48.87517306494243",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.637705554664271,
+      "lat": 48.87517306494243
+    },
+    "nom_commune": "Vaires-sur-Marne",
+    "code_insee": "77479"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:44201",
+    "stop_name": "Noisy-le-Sec",
+    "stop_lon": "2.4591980956866797",
+    "stop_lat": "48.8966634168645",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4591980956866797,
+      "lat": 48.8966634168645
+    },
+    "nom_commune": "Noisy-le-Sec",
+    "code_insee": "93053"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43176",
+    "stop_name": "Pantin",
+    "stop_lon": "2.4010414542870944",
+    "stop_lat": "48.897987452300434",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4010414542870944,
+      "lat": 48.897987452300434
+    },
+    "nom_commune": "Pantin",
+    "code_insee": "93055"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58879",
+    "stop_name": "Chelles - Gournay",
+    "stop_lon": "2.5833806594500697",
+    "stop_lat": "48.87411948897062",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5833806594500697,
+      "lat": 48.87411948897062
+    },
+    "nom_commune": "Chelles",
+    "code_insee": "77108"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:42356",
+    "stop_name": "Rosny Bois Perrier",
+    "stop_lon": "2.4811863962676766",
+    "stop_lat": "48.88258632328664",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4811863962676766,
+      "lat": 48.88258632328664
+    },
+    "nom_commune": "Rosny-sous-Bois",
+    "code_insee": "93064"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:470519",
+    "stop_name": "Paris Est",
+    "stop_lon": "2.360305141171757",
+    "stop_lat": "48.87857171221123",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.360305141171757,
+      "lat": 48.87857171221123
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43044",
+    "stop_name": "Gagny",
+    "stop_lon": "2.5254046016945138",
+    "stop_lat": "48.883728731604535",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5254046016945138,
+      "lat": 48.883728731604535
+    },
+    "nom_commune": "Gagny",
+    "code_insee": "93032"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43208",
+    "stop_name": "Tournan",
+    "stop_lon": "2.7589013341652717",
+    "stop_lat": "48.739445157221006",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7589013341652717,
+      "lat": 48.739445157221006
+    },
+    "nom_commune": "Tournan-en-Brie",
+    "code_insee": "77470"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:462901",
+    "stop_name": "Ozoir-la-Ferri\u00e8re",
+    "stop_lon": "2.690116190500944",
+    "stop_lat": "48.77076716837013",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.690116190500944,
+      "lat": 48.77076716837013
+    },
+    "nom_commune": "Ozoir-la-Ferri\u00e8re",
+    "code_insee": "77350"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46568",
+    "stop_name": "Roissy-en-Brie",
+    "stop_lon": "2.650530702348584",
+    "stop_lat": "48.79563367624288",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.650530702348584,
+      "lat": 48.79563367624288
+    },
+    "nom_commune": "Roissy-en-Brie",
+    "code_insee": "77390"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43223",
+    "stop_name": "Villiers-sur-Marne - Le Plessis-Tr\u00e9vise",
+    "stop_lon": "2.542644466674205",
+    "stop_lat": "48.82324786783017",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.542644466674205,
+      "lat": 48.82324786783017
+    },
+    "nom_commune": "Villiers-sur-Marne",
+    "code_insee": "94079"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46552",
+    "stop_name": "Nogent - Le Perreux",
+    "stop_lon": "2.4939549579206104",
+    "stop_lat": "48.839991175687295",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4939549579206104,
+      "lat": 48.839991175687295
+    },
+    "nom_commune": "Nogent-sur-Marne",
+    "code_insee": "94052"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47877",
+    "stop_name": "Rosny-sous-Bois",
+    "stop_lon": "2.4857557993217947",
+    "stop_lat": "48.87007067367753",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4857557993217947,
+      "lat": 48.87007067367753
+    },
+    "nom_commune": "Rosny-sous-Bois",
+    "code_insee": "93064"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58498",
+    "stop_name": "Rosa Parks",
+    "stop_lon": "2.3737182728654673",
+    "stop_lat": "48.89645824176388",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3737182728654673,
+      "lat": 48.89645824176388
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43127",
+    "stop_name": "Le Ch\u00e9nay Gagny",
+    "stop_lon": "2.5527724908646303",
+    "stop_lat": "48.877159125382796",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5527724908646303,
+      "lat": 48.877159125382796
+    },
+    "nom_commune": "Gagny",
+    "code_insee": "93032"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43131",
+    "stop_name": "Gretz-Armainvilliers",
+    "stop_lon": "2.727167738339898",
+    "stop_lat": "48.74645539980236",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.727167738339898,
+      "lat": 48.74645539980236
+    },
+    "nom_commune": "Gretz-Armainvilliers",
+    "code_insee": "77215"
+  },
+  {
+    "id": "IDFM:C01729",
+    "route_long_name": "E",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-e.pdf\", \"label\": \"Plan de la ligne RER E\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:507f030c-737a-3e52-9ead-955155054e41\", \"from\": \"Chelles - Gournay\", \"to\": \"Haussmann Saint-Lazare\", \"first\": \"06:00\", \"last\": \"22:15\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58288",
+    "stop_name": "Les Yvris Noisy-le-Grand",
+    "stop_lon": "2.5799804563719477",
+    "stop_lat": "48.82311348135466",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5799804563719477,
+      "lat": 48.82311348135466
+    },
+    "nom_commune": "Noisy-le-Grand",
+    "code_insee": "93051"
+  }
+]

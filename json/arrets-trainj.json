@@ -1,0 +1,920 @@
+[
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47898",
+        "stop_name": "Ermont - Eaubonne",
+        "stop_lon": "2.2707541014797794",
+        "stop_lat": "48.98049890628609",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2707541014797794,
+            "lat": 48.98049890628609
+        },
+        "nom_commune": "Ermont",
+        "code_insee": "95219"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47955",
+        "stop_name": "Saint-Ouen-l'Aum\u00f4ne Quartier de l'\u00c9glise",
+        "stop_lon": "2.1034691329132857",
+        "stop_lat": "49.03909361746138",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1034691329132857,
+            "lat": 49.03909361746138
+        },
+        "nom_commune": "Saint-Ouen-l'Aum\u00f4ne",
+        "code_insee": "95572"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:51238",
+        "stop_name": "Bois-Colombes",
+        "stop_lon": "2.2716490888242244",
+        "stop_lat": "48.91419560591249",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2716490888242244,
+            "lat": 48.91419560591249
+        },
+        "nom_commune": "Bois-Colombes",
+        "code_insee": "92009"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47875",
+        "stop_name": "Argenteuil",
+        "stop_lon": "2.257913508915154",
+        "stop_lat": "48.9468952901277",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.257913508915154,
+            "lat": 48.9468952901277
+        },
+        "nom_commune": "Argenteuil",
+        "code_insee": "95018"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43143",
+        "stop_name": "La Frette - Montigny",
+        "stop_lon": "2.180341866372171",
+        "stop_lat": "48.97988373233732",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.180341866372171,
+            "lat": 48.97988373233732
+        },
+        "nom_commune": "La Frette-sur-Seine",
+        "code_insee": "95257"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43160",
+        "stop_name": "Maurecourt",
+        "stop_lon": "2.059634534011659",
+        "stop_lat": "48.986862412057214",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.059634534011659,
+            "lat": 48.986862412057214
+        },
+        "nom_commune": "Andr\u00e9sy",
+        "code_insee": "78015"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47916",
+        "stop_name": "Andr\u00e9sy",
+        "stop_lon": "2.0486677678528",
+        "stop_lat": "48.974620752632916",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0486677678528,
+            "lat": 48.974620752632916
+        },
+        "nom_commune": "Andr\u00e9sy",
+        "code_insee": "78015"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43069",
+        "stop_name": "Asni\u00e8res-sur-Seine",
+        "stop_lon": "2.2832114335873186",
+        "stop_lat": "48.90587474197106",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2832114335873186,
+            "lat": 48.90587474197106
+        },
+        "nom_commune": "Asni\u00e8res-sur-Seine",
+        "code_insee": "92004"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43191",
+        "stop_name": "Sartrouville",
+        "stop_lon": "2.1572200388507317",
+        "stop_lat": "48.93769529363442",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1572200388507317,
+            "lat": 48.93769529363442
+        },
+        "nom_commune": "Sartrouville",
+        "code_insee": "78586"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47874",
+        "stop_name": "Poissy",
+        "stop_lon": "2.040804469960689",
+        "stop_lat": "48.93324983956547",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.040804469960689,
+            "lat": 48.93324983956547
+        },
+        "nom_commune": "Poissy",
+        "code_insee": "78498"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47966",
+        "stop_name": "Villennes-sur-Seine",
+        "stop_lon": "1.999557321396041",
+        "stop_lat": "48.93983138477974",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.999557321396041,
+            "lat": 48.93983138477974
+        },
+        "nom_commune": "Villennes-sur-Seine",
+        "code_insee": "78672"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:411338",
+        "stop_name": "Trie-Ch\u00e2teau",
+        "stop_lon": "1.818497020989674",
+        "stop_lat": "49.2824007109848",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.818497020989674,
+            "lat": 49.2824007109848
+        },
+        "nom_commune": "Trie-Ch\u00e2teau",
+        "code_insee": "60644"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:411345",
+        "stop_name": "Chaumont-en-Vexin",
+        "stop_lon": "1.8732362595841847",
+        "stop_lat": "49.26118959499568",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.8732362595841847,
+            "lat": 49.26118959499568
+        },
+        "nom_commune": "Chaumont-en-Vexin",
+        "code_insee": "60143"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:411348",
+        "stop_name": "La Villetertre",
+        "stop_lon": "1.9205792747729",
+        "stop_lat": "49.20238205277644",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9205792747729,
+            "lat": 49.20238205277644
+        },
+        "nom_commune": "Lavilletertre",
+        "code_insee": "60356"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:51494",
+        "stop_name": "Osny",
+        "stop_lon": "2.0581556508746317",
+        "stop_lat": "49.06281914403825",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0581556508746317,
+            "lat": 49.06281914403825
+        },
+        "nom_commune": "Osny",
+        "code_insee": "95476"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:44411",
+        "stop_name": "Pontoise",
+        "stop_lon": "2.0957859968423524",
+        "stop_lat": "49.04673337596684",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0957859968423524,
+            "lat": 49.04673337596684
+        },
+        "nom_commune": "Pontoise",
+        "code_insee": "95500"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43114",
+        "stop_name": "Conflans Fin d'Oise",
+        "stop_lon": "2.0746499245710193",
+        "stop_lat": "48.991156287258484",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0746499245710193,
+            "lat": 48.991156287258484
+        },
+        "nom_commune": "Conflans-Sainte-Honorine",
+        "code_insee": "78172"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47929",
+        "stop_name": "Chanteloup-les-Vignes",
+        "stop_lon": "2.0276211497651646",
+        "stop_lat": "48.97035707590211",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0276211497651646,
+            "lat": 48.97035707590211
+        },
+        "nom_commune": "Chanteloup-les-Vignes",
+        "code_insee": "78138"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46926",
+        "stop_name": "Triel-sur-Seine",
+        "stop_lon": "2.005709444143668",
+        "stop_lat": "48.98141600700941",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.005709444143668,
+            "lat": 48.98141600700941
+        },
+        "nom_commune": "Triel-sur-Seine",
+        "code_insee": "78624"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43137",
+        "stop_name": "Juziers",
+        "stop_lon": "1.8449525722587152",
+        "stop_lat": "48.99224048747195",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.8449525722587152,
+            "lat": 48.99224048747195
+        },
+        "nom_commune": "Juziers",
+        "code_insee": "78327"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43151",
+        "stop_name": "Limay",
+        "stop_lon": "1.7474125098984148",
+        "stop_lat": "48.98420212754175",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.7474125098984148,
+            "lat": 48.98420212754175
+        },
+        "nom_commune": "Limay",
+        "code_insee": "78335"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:473109",
+        "stop_name": "Maisons-Laffitte",
+        "stop_lon": "2.1446722659338855",
+        "stop_lat": "48.94574060746957",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1446722659338855,
+            "lat": 48.94574060746957
+        },
+        "nom_commune": "Maisons-Laffitte",
+        "code_insee": "78358"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43070",
+        "stop_name": "Aubergenville \u00c9lisabethville",
+        "stop_lon": "1.8489603900783327",
+        "stop_lat": "48.97233225408568",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.8489603900783327,
+            "lat": 48.97233225408568
+        },
+        "nom_commune": "Aubergenville",
+        "code_insee": "78029"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47882",
+        "stop_name": "\u00c9p\u00f4ne - M\u00e9zi\u00e8res",
+        "stop_lon": "1.809133387838305",
+        "stop_lat": "48.96340497197892",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.809133387838305,
+            "lat": 48.96340497197892
+        },
+        "nom_commune": "\u00c9p\u00f4ne",
+        "code_insee": "78217"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43157",
+        "stop_name": "Mantes-la-Jolie",
+        "stop_lon": "1.703836824856348",
+        "stop_lat": "48.989295021419494",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.703836824856348,
+            "lat": 48.989295021419494
+        },
+        "nom_commune": "Mantes-la-Jolie",
+        "code_insee": "78361"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:479059",
+        "stop_name": "Rosny-sur-Seine",
+        "stop_lon": "1.6298170882272784",
+        "stop_lat": "48.99751746396684",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.6298170882272784,
+            "lat": 48.99751746396684
+        },
+        "nom_commune": "Rosny-sur-Seine",
+        "code_insee": "78531"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47949",
+        "stop_name": "Santeuil - Le Perchay",
+        "stop_lon": "1.949406923865895",
+        "stop_lat": "49.12334471123142",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.949406923865895,
+            "lat": 49.12334471123142
+        },
+        "nom_commune": "Santeuil",
+        "code_insee": "95584"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47922",
+        "stop_name": "Us",
+        "stop_lon": "1.9705444983242866",
+        "stop_lat": "49.09955483034093",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9705444983242866,
+            "lat": 49.09955483034093
+        },
+        "nom_commune": "Us",
+        "code_insee": "95625"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43113",
+        "stop_name": "Colombes",
+        "stop_lon": "2.2593187577109575",
+        "stop_lat": "48.92395845032284",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2593187577109575,
+            "lat": 48.92395845032284
+        },
+        "nom_commune": "Colombes",
+        "code_insee": "92025"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43236",
+        "stop_name": "Le Stade",
+        "stop_lon": "2.260948512567054",
+        "stop_lat": "48.93172049557505",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.260948512567054,
+            "lat": 48.93172049557505
+        },
+        "nom_commune": "Colombes",
+        "code_insee": "92025"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43217",
+        "stop_name": "Vaux-sur-Seine",
+        "stop_lon": "1.9630264473162566",
+        "stop_lat": "49.0073550143858",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9630264473162566,
+            "lat": 49.0073550143858
+        },
+        "nom_commune": "Vaux-sur-Seine",
+        "code_insee": "78638"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46902",
+        "stop_name": "Thun le Paradis",
+        "stop_lon": "1.919170589720022",
+        "stop_lat": "49.006673442207415",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.919170589720022,
+            "lat": 49.006673442207415
+        },
+        "nom_commune": "Meulan-en-Yvelines",
+        "code_insee": "78401"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46897",
+        "stop_name": "Meulan - Hardricourt",
+        "stop_lon": "1.9021289902435004",
+        "stop_lat": "49.00581615609435",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9021289902435004,
+            "lat": 49.00581615609435
+        },
+        "nom_commune": "Hardricourt",
+        "code_insee": "78299"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47964",
+        "stop_name": "Vernouillet - Verneuil",
+        "stop_lon": "1.9829377621754614",
+        "stop_lat": "48.981645855003116",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9829377621754614,
+            "lat": 48.981645855003116
+        },
+        "nom_commune": "Verneuil-sur-Seine",
+        "code_insee": "78642"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47881",
+        "stop_name": "Les Mureaux",
+        "stop_lon": "1.9134674211236111",
+        "stop_lat": "48.99259097971094",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9134674211236111,
+            "lat": 48.99259097971094
+        },
+        "nom_commune": "Les Mureaux",
+        "code_insee": "78440"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:59038",
+        "stop_name": "Vernon - Giverny",
+        "stop_lon": "1.477776772218189",
+        "stop_lat": "49.091626659828435",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.477776772218189,
+            "lat": 49.091626659828435
+        },
+        "nom_commune": "Vernon",
+        "code_insee": "27681"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43189",
+        "stop_name": "Sannois",
+        "stop_lon": "2.263820283806777",
+        "stop_lat": "48.970881176549405",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.263820283806777,
+            "lat": 48.970881176549405
+        },
+        "nom_commune": "Sannois",
+        "code_insee": "95582"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:59301",
+        "stop_name": "Gisors",
+        "stop_lon": "1.7847679942171768",
+        "stop_lat": "49.285504693998305",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.7847679942171768,
+            "lat": 49.285504693998305
+        },
+        "nom_commune": "Gisors",
+        "code_insee": "27284"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47930",
+        "stop_name": "Chars",
+        "stop_lon": "1.936865953454158",
+        "stop_lat": "49.16300140123273",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.936865953454158,
+            "lat": 49.16300140123273
+        },
+        "nom_commune": "Chars",
+        "code_insee": "95142"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43212",
+        "stop_name": "Val d'Argenteuil",
+        "stop_lon": "2.2326940500534516",
+        "stop_lat": "48.95065749524003",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2326940500534516,
+            "lat": 48.95065749524003
+        },
+        "nom_commune": "Argenteuil",
+        "code_insee": "95018"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43116",
+        "stop_name": "Cormeilles-en-Parisis",
+        "stop_lon": "2.1930511780913897",
+        "stop_lat": "48.9686435877584",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1930511780913897,
+            "lat": 48.9686435877584
+        },
+        "nom_commune": "Cormeilles-en-Parisis",
+        "code_insee": "95176"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43129",
+        "stop_name": "Gargenville",
+        "stop_lon": "1.8090110590166268",
+        "stop_lat": "48.983003872761415",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.8090110590166268,
+            "lat": 48.983003872761415
+        },
+        "nom_commune": "Gargenville",
+        "code_insee": "78267"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46975",
+        "stop_name": "Issou - Porcheville",
+        "stop_lon": "1.7838404356830648",
+        "stop_lat": "48.9793069192499",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.7838404356830648,
+            "lat": 48.9793069192499
+        },
+        "nom_commune": "Issou",
+        "code_insee": "78314"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:58566",
+        "stop_name": "Paris Saint-Lazare",
+        "stop_lon": "2.3244386552397684",
+        "stop_lat": "48.87747568635212",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3244386552397684,
+            "lat": 48.87747568635212
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:54249",
+        "stop_name": "Les Clairi\u00e8res de Verneuil",
+        "stop_lon": "1.9552440340828119",
+        "stop_lat": "48.99266997269272",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9552440340828119,
+            "lat": 48.99266997269272
+        },
+        "nom_commune": "Verneuil-sur-Seine",
+        "code_insee": "78642"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46965",
+        "stop_name": "Mantes Station",
+        "stop_lon": "1.7151334567152097",
+        "stop_lat": "48.98360892717879",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.7151334567152097,
+            "lat": 48.98360892717879
+        },
+        "nom_commune": "Mantes-la-Jolie",
+        "code_insee": "78361"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:411342",
+        "stop_name": "Liancourt-Saint-Pierre",
+        "stop_lon": "1.9054790812050526",
+        "stop_lat": "49.22054256178432",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.9054790812050526,
+            "lat": 49.22054256178432
+        },
+        "nom_commune": "Liancourt-Saint-Pierre",
+        "code_insee": "60361"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:44161",
+        "stop_name": "Montgeroult - Courcelles",
+        "stop_lon": "2.0029460458068105",
+        "stop_lat": "49.080811910011626",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.0029460458068105,
+            "lat": 49.080811910011626
+        },
+        "nom_commune": "Montgeroult",
+        "code_insee": "95422"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46801",
+        "stop_name": "Boissy-l'Aillerie",
+        "stop_lon": "2.025386064104548",
+        "stop_lat": "49.07572135804642",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.025386064104548,
+            "lat": 49.07572135804642
+        },
+        "nom_commune": "Boissy-l'Aillerie",
+        "code_insee": "95078"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43079",
+        "stop_name": "\u00c9ragny - Neuville",
+        "stop_lon": "2.090571123307668",
+        "stop_lat": "49.01790068888594",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.090571123307668,
+            "lat": 49.01790068888594
+        },
+        "nom_commune": "\u00c9ragny",
+        "code_insee": "95218"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47603",
+        "stop_name": "Herblay",
+        "stop_lon": "2.1622316587721904",
+        "stop_lat": "48.990136140429954",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1622316587721904,
+            "lat": 48.990136140429954
+        },
+        "nom_commune": "Herblay-sur-Seine",
+        "code_insee": "95306"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:47447",
+        "stop_name": "Conflans-Sainte-Honorine",
+        "stop_lon": "2.09871661352047",
+        "stop_lat": "48.996919424234726",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.09871661352047,
+            "lat": 48.996919424234726
+        },
+        "nom_commune": "Conflans-Sainte-Honorine",
+        "code_insee": "78172"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:43082",
+        "stop_name": "Houilles - Carri\u00e8res-sur-Seine",
+        "stop_lon": "2.1851757042018707",
+        "stop_lat": "48.92034757911033",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1851757042018707,
+            "lat": 48.92034757911033
+        },
+        "nom_commune": "Houilles",
+        "code_insee": "78311"
+    },
+    {
+        "id": "IDFM:C01739",
+        "route_long_name": "J",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-j.pdf\", \"label\": \"Plan de la ligne Transilien J\"}]",
+        "schedules": "[{\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Argenteuil\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:20\", \"last\": \"23:35\"}, {\"routeId\": \"route:IDFM:SNCF:8b2b5eb5-92a4-4e14-9ff9-b074de085b08\", \"from\": \"Conflans-Sainte-Honorine\", \"to\": \"Paris Saint-Lazare\", \"first\": \"21:02\", \"last\": \"23:18\"}]",
+        "stop_id": "IDFM:monomodalStopPlace:46984",
+        "stop_name": "Bonni\u00e8res",
+        "stop_lon": "1.5820546885594051",
+        "stop_lat": "49.03882194566387",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 1.5820546885594051,
+            "lat": 49.03882194566387
+        },
+        "nom_commune": "Bonni\u00e8res-sur-Seine",
+        "code_insee": "78089"
+    }
+]

@@ -1,0 +1,11 @@
+<svg class="tn-svg-line traffic-info-line-container__picto" viewBox="0 0 284 284"
+     xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <g xmlns="http://www.w3.org/2000/svg" id="g2"
+       style="stroke-width:0.411765">
+        <rect fill="#9f9825" width="283.45999" height="283.45999" rx="63.779999" id="rect1" x="0" y="0"
+              style="stroke-width:0.411765"/>
+        <path fill="#ffffff"
+              d="M 159.25,216.67 H 124.42 L 71.33,66.54 h 35.46 l 26.97,81.76 c 5.1,15.71 7.64,27.61 8.71,33.34 h 0.42 c 1.06,-5.73 3.4,-16.56 8.71,-32.91 l 27.18,-82.18 h 33.34 l -52.88,150.13 z"
+              id="path1" style="stroke-width:0.411765"/>
+    </g>
+</svg>

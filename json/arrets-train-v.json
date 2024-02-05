@@ -1,0 +1,121 @@
+[
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43215",
+    "stop_name": "Vauboyen",
+    "stop_lon": "2.1925522822775045",
+    "stop_lat": "48.75897132762851",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1925522822775045,
+      "lat": 48.75897132762851
+    },
+    "nom_commune": "Bi\u00e8vres",
+    "code_insee": "91064"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43091",
+    "stop_name": "Bi\u00e8vres",
+    "stop_lon": "2.2161603396773564",
+    "stop_lat": "48.75087243760775",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2161603396773564,
+      "lat": 48.75087243760775
+    },
+    "nom_commune": "Bi\u00e8vres",
+    "code_insee": "91064"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43083",
+    "stop_name": "Igny",
+    "stop_lon": "2.230807643224045",
+    "stop_lat": "48.74084886110891",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.230807643224045,
+      "lat": 48.74084886110891
+    },
+    "nom_commune": "Igny",
+    "code_insee": "91312"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58774",
+    "stop_name": "Massy - Palaiseau",
+    "stop_lon": "2.2587677282577334",
+    "stop_lat": "48.72551907437078",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2587677282577334,
+      "lat": 48.72551907437078
+    },
+    "nom_commune": "Massy",
+    "code_insee": "91377"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43219",
+    "stop_name": "Versailles Chantiers",
+    "stop_lon": "2.1349078603373464",
+    "stop_lat": "48.79526039893613",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1349078603373464,
+      "lat": 48.79526039893613
+    },
+    "nom_commune": "Versailles",
+    "code_insee": "78646"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43136",
+    "stop_name": "Jouy-en-Josas",
+    "stop_lon": "2.1644478368550066",
+    "stop_lat": "48.764760068378486",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1644478368550066,
+      "lat": 48.764760068378486
+    },
+    "nom_commune": "Jouy-en-Josas",
+    "code_insee": "78322"
+  },
+  {
+    "id": "IDFM:C01727",
+    "route_long_name": "V",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-c.pdf\", \"label\": \"Plan RER C\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:6fb26583-6068-38d9-abff-1a7b4feb7912\", \"from\": \"Dourdan\", \"to\": \"Gare d'Austerlitz\", \"first\": \"05:37\", \"last\": \"23:07\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:57674",
+    "stop_name": "Petit Jouy Les Loges",
+    "stop_lon": "2.1468519693445356",
+    "stop_lat": "48.77123768805397",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1468519693445356,
+      "lat": 48.77123768805397
+    },
+    "nom_commune": "Jouy-en-Josas",
+    "code_insee": "78322"
+  }
+]

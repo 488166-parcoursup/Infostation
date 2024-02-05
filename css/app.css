@@ -1,0 +1,359 @@
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        background: #101010 !important;
+        color: #f6f6f6;
+    }
+
+    .mission {
+        color: #c2c2c2 !important;
+    }
+
+    .quai {
+        color: #c2c2c2 !important;
+    }
+
+    .svgmode__fg {
+        fill: #fff !important;
+    }
+
+    .svg-line-number--white {
+        fill: white !important;
+    }
+}
+
+/* Fonts */
+
+@font-face {
+    font-family: 'Parisine';
+    font-weight: normal;
+    src: url('../fonts/Parisine-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Parisine';
+    font-weight: bold;
+    src: url('../fonts/Parisine Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Achemine';
+    font-weight: bold;
+    src: url('../fonts/achemine/achemine_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Achemine';
+    font-weight: normal;
+    src: url('../fonts/achemine/achemine_regular.ttf');
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.blink {
+    animation: blink 3s infinite;
+}
+
+.dot {
+    width: 30px;
+    height: 30px;
+    background-color: #ef8101;
+    border-radius: 50%;
+    animation: dot 1s steps(1, start) infinite;
+    display: none;
+}
+
+@keyframes dot {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
+
+body {
+    background: #f6f6f6;
+    font-family: 'Parisine', sans-serif;
+}
+
+body.sncf {
+    font-family: 'Achemine', sans-serif !important;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu>* {
+    display: flex;
+    padding: .5rem 0;
+    align-items: center;
+}
+
+.menu>*>* {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+/* Text */
+
+/* Generic heading styles */
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+h3 {
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+h5 {
+    font-size: 0.83em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+h6 {
+    font-size: 0.67em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 0em;
+}
+
+p.big {
+    font-size: 22px;
+}
+
+.center {
+    text-align: center;
+}
+
+h1.big {
+    font-size: 50px;
+}
+
+.horaires {
+    display: flex;
+    flex-direction: column;
+}
+
+h3.direction {
+    margin: .4rem 0 0 0;
+}
+
+.big-text {
+    font-size: 40px
+}
+
+.ultra-text {
+    font-size: 60px
+}
+
+/* SVG */
+
+@media screen {
+    .dark-mode .tn-svg-line--TRAM_T13 {
+        fill: #8d5e2a;
+    }
+
+    .svg-line-number--white {
+        fill: #000;
+    }
+}
+
+@media screen {
+    .tn-svg-line--RER_A {
+        fill: #e3051c;
+    }
+
+    .tn-svg-line--RER_B {
+        fill: #5291ce;
+    }
+
+    .dark-mode .tn-svg-line--LIGNE_L {
+        fill: #ceadd2;
+    }
+
+    .dark-mode .tn-svg-line--LIGNE_J {
+        fill: #d5c900;
+    }
+}
+
+/* InfoStation — Ecran */
+
+.logoLigne {
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    margin-right: 20px;
+    margin-left: 8px;
+}
+
+.logoLigne>img {
+    height: 40px;
+}
+
+
+.sncf>#horaires>.horaire-row {
+    padding: .25rem 0;
+}
+
+.horaire-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 140px;
+}
+
+#horaires1,
+#horaires2 {
+    width: 47vw;
+}
+
+.horaire-row>*>* {
+    margin: 0;
+}
+
+.dest,
+#destination2 {
+    font-size: 45px;
+}
+
+.heure,
+#heure2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.mission,
+#mission2 {
+    color: #2f2f2f;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.horaire-sub {
+    display: flex;
+}
+
+.quai {
+    color: #2f2f2f;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#stationSearchResults {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    display: none;
+    color: #fff;
+    background: #050d9e;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    z-index: 999;
+}
+
+#stationSearchResults li {
+    padding: 8px;
+    cursor: pointer;
+}
+
+#stationSearchResults li:hover {
+    background-color: #2229ac;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    z-index: 999;
+}
+
+#stationSearch {
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border: 2px solid lightgrey;
+    border-radius: 9px;
+    margin-right: 8px;
+}
+
+#horaires>h3 {
+    display: none !important;
+}
+
+#horaires {
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+}
+
+/* Info Trafic */
+.info-trafic {
+    width: 100vw;
+    background: #5446463b;
+    margin: 0;
+    border-top: 5px solid #ff0000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 80px;
+    justify-content: flex-start;
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    position: fixed;
+    bottom: 0;
+    flex-wrap: nowrap;
+    align-content: center;
+    z-index: 899;
+}
+
+.info-trafic.ok {
+    background: #4654473b;
+    border-top: 5px solid #009726;
+}
+
+.info-trafic.danger {
+    background: #5451463b;
+    border-top: 5px solid #db6300;
+}

@@ -1,0 +1,852 @@
+[
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22100",
+    "stop_name": "Les Sablons",
+    "stop_lon": "2.271904762259129",
+    "stop_lat": "48.88129083793358",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.271904762259129,
+      "lat": 48.88129083793358
+    },
+    "nom_commune": "Neuilly-sur-Seine",
+    "code_insee": "92051"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22081",
+    "stop_name": "Louvre - Rivoli",
+    "stop_lon": "2.3409026134809903",
+    "stop_lat": "48.86078090878698",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3409026134809903,
+      "lat": 48.86078090878698
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463080",
+    "stop_name": "H\u00f4tel de Ville",
+    "stop_lon": "2.3520676701391",
+    "stop_lat": "48.85735240518587",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3520676701391,
+      "lat": 48.85735240518587
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22074",
+    "stop_name": "Saint-Paul (Le Marais)",
+    "stop_lon": "2.3608852562751967",
+    "stop_lat": "48.85518742160445",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3608852562751967,
+      "lat": 48.85518742160445
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463019",
+    "stop_name": "Bastille",
+    "stop_lon": "2.368692796099789",
+    "stop_lat": "48.85196422011205",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.368692796099789,
+      "lat": 48.85196422011205
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22076",
+    "stop_name": "Reuilly - Diderot",
+    "stop_lon": "2.386056169673362",
+    "stop_lat": "48.84723403765801",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.386056169673362,
+      "lat": 48.84723403765801
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22104",
+    "stop_name": "Ch\u00e2teau de Vincennes",
+    "stop_lon": "2.440540095406114",
+    "stop_lat": "48.84431751431355",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.440540095406114,
+      "lat": 48.84431751431355
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463149",
+    "stop_name": "Ch\u00e2teau de Vincennes",
+    "stop_lon": "2.440540095406114",
+    "stop_lat": "48.84431751431355",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.440540095406114,
+      "lat": 48.84431751431355
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463130",
+    "stop_name": "B\u00e9rault",
+    "stop_lon": "2.4292278831660283",
+    "stop_lat": "48.845491696267075",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4292278831660283,
+      "lat": 48.845491696267075
+    },
+    "nom_commune": "Vincennes",
+    "code_insee": "94080"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463160",
+    "stop_name": "Ch\u00e2telet",
+    "stop_lon": "2.3458090025909044",
+    "stop_lat": "48.85930591756934",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3458090025909044,
+      "lat": 48.85930591756934
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22075",
+    "stop_name": "Tuileries",
+    "stop_lon": "2.3297453212172794",
+    "stop_lat": "48.864550163577015",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3297453212172794,
+      "lat": 48.864550163577015
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463193",
+    "stop_name": "La D\u00e9fense (Grande Arche)",
+    "stop_lon": "2.2383579200010373",
+    "stop_lat": "48.89199558886802",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2383579200010373,
+      "lat": 48.89199558886802
+    },
+    "nom_commune": "Puteaux",
+    "code_insee": "92062"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463257",
+    "stop_name": "Porte Maillot",
+    "stop_lon": "2.2822896139411903",
+    "stop_lat": "48.877805650437985",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2822896139411903,
+      "lat": 48.877805650437985
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22087",
+    "stop_name": "Ch\u00e2telet",
+    "stop_lon": "2.3457609541847755",
+    "stop_lat": "48.85922471342816",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3457609541847755,
+      "lat": 48.85922471342816
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22083",
+    "stop_name": "Gare de Lyon",
+    "stop_lon": "2.3731565937892047",
+    "stop_lat": "48.8456832067358",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3731565937892047,
+      "lat": 48.8456832067358
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22105",
+    "stop_name": "B\u00e9rault",
+    "stop_lon": "2.4292049740990573",
+    "stop_lat": "48.84540614839331",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4292049740990573,
+      "lat": 48.84540614839331
+    },
+    "nom_commune": "Vincennes",
+    "code_insee": "94080"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463227",
+    "stop_name": "Palais Royal - Mus\u00e9e du Louvre",
+    "stop_lon": "2.336561574182243",
+    "stop_lat": "48.862366755622624",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.336561574182243,
+      "lat": 48.862366755622624
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22088",
+    "stop_name": "Argentine",
+    "stop_lon": "2.289435418542214",
+    "stop_lat": "48.87566737659971",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.289435418542214,
+      "lat": 48.87566737659971
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463170",
+    "stop_name": "Esplanade de la D\u00e9fense",
+    "stop_lon": "2.249931086743073",
+    "stop_lat": "48.88834989394862",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.249931086743073,
+      "lat": 48.88834989394862
+    },
+    "nom_commune": "Courbevoie",
+    "code_insee": "92026"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463121",
+    "stop_name": "Argentine",
+    "stop_lon": "2.289435418542214",
+    "stop_lat": "48.87566737659971",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.289435418542214,
+      "lat": 48.87566737659971
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22086",
+    "stop_name": "Charles de Gaulle - Etoile",
+    "stop_lon": "2.2951172138230334",
+    "stop_lat": "48.87392926445533",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2951172138230334,
+      "lat": 48.87392926445533
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22090",
+    "stop_name": "Champs-\u00c9lys\u00e9es - Clemenceau",
+    "stop_lon": "2.314397292025236",
+    "stop_lat": "48.867583959552555",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.314397292025236,
+      "lat": 48.867583959552555
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22077",
+    "stop_name": "Porte de Vincennes",
+    "stop_lon": "2.4108049967015006",
+    "stop_lat": "48.84700773108863",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4108049967015006,
+      "lat": 48.84700773108863
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22103",
+    "stop_name": "Saint-Mand\u00e9",
+    "stop_lon": "2.4189623545327077",
+    "stop_lat": "48.846238208060065",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4189623545327077,
+      "lat": 48.846238208060065
+    },
+    "nom_commune": "Saint-Mand\u00e9",
+    "code_insee": "94067"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463012",
+    "stop_name": "Porte de Vincennes",
+    "stop_lon": "2.4108049967015006",
+    "stop_lat": "48.84700773108863",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4108049967015006,
+      "lat": 48.84700773108863
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:462943",
+    "stop_name": "Nation",
+    "stop_lon": "2.395825965451431",
+    "stop_lat": "48.84816963759798",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.395825965451431,
+      "lat": 48.84816963759798
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463010",
+    "stop_name": "Champs-\u00c9lys\u00e9es - Clemenceau",
+    "stop_lon": "2.314464501322781",
+    "stop_lat": "48.86765629219383",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.314464501322781,
+      "lat": 48.86765629219383
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463181",
+    "stop_name": "Franklin D. Roosevelt",
+    "stop_lon": "2.309434325751582",
+    "stop_lat": "48.86925069418826",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.309434325751582,
+      "lat": 48.86925069418826
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463185",
+    "stop_name": "George V",
+    "stop_lon": "2.300759784978918",
+    "stop_lat": "48.87203776458909",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.300759784978918,
+      "lat": 48.87203776458909
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463044",
+    "stop_name": "Pont de Neuilly",
+    "stop_lon": "2.2585225729481575",
+    "stop_lat": "48.8854985504452",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2585225729481575,
+      "lat": 48.8854985504452
+    },
+    "nom_commune": "Neuilly-sur-Seine",
+    "code_insee": "92051"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463041",
+    "stop_name": "Tuileries",
+    "stop_lon": "2.3296780947116416",
+    "stop_lat": "48.864477839314645",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3296780947116416,
+      "lat": 48.864477839314645
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22080",
+    "stop_name": "Nation",
+    "stop_lon": "2.3958439887237373",
+    "stop_lat": "48.848084289973976",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3958439887237373,
+      "lat": 48.848084289973976
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463307",
+    "stop_name": "Saint-Paul (Le Marais)",
+    "stop_lon": "2.3609713728017505",
+    "stop_lat": "48.85527781668134",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3609713728017505,
+      "lat": 48.85527781668134
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463150",
+    "stop_name": "Concorde",
+    "stop_lon": "2.3229614457982586",
+    "stop_lat": "48.866557992949716",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3229614457982586,
+      "lat": 48.866557992949716
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463013",
+    "stop_name": "Charles de Gaulle - Etoile",
+    "stop_lon": "2.2951172138230334",
+    "stop_lat": "48.87392926445533",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2951172138230334,
+      "lat": 48.87392926445533
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22099",
+    "stop_name": "Pont de Neuilly",
+    "stop_lon": "2.2584954293691255",
+    "stop_lat": "48.885489388974705",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2584954293691255,
+      "lat": 48.885489388974705
+    },
+    "nom_commune": "Neuilly-sur-Seine",
+    "code_insee": "92051"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22102",
+    "stop_name": "Esplanade de la D\u00e9fense",
+    "stop_lon": "2.2499040727323307",
+    "stop_lat": "48.88833173800946",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2499040727323307,
+      "lat": 48.88833173800946
+    },
+    "nom_commune": "Courbevoie",
+    "code_insee": "92026"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22101",
+    "stop_name": "La D\u00e9fense (Grande Arche)",
+    "stop_lon": "2.2379881830988277",
+    "stop_lat": "48.89181786646099",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2379881830988277,
+      "lat": 48.89181786646099
+    },
+    "nom_commune": "Puteaux",
+    "code_insee": "92062"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22084",
+    "stop_name": "George V",
+    "stop_lon": "2.300759784978918",
+    "stop_lat": "48.87203776458909",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.300759784978918,
+      "lat": 48.87203776458909
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22082",
+    "stop_name": "Franklin D. Roosevelt",
+    "stop_lon": "2.309359666519628",
+    "stop_lat": "48.8691648256349",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.309359666519628,
+      "lat": 48.8691648256349
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22085",
+    "stop_name": "Concorde",
+    "stop_lon": "2.3228909937191604",
+    "stop_lat": "48.866472156532026",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3228909937191604,
+      "lat": 48.866472156532026
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22079",
+    "stop_name": "Palais Royal - Mus\u00e9e du Louvre",
+    "stop_lon": "2.3364543677542517",
+    "stop_lat": "48.86222226557415",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3364543677542517,
+      "lat": 48.86222226557415
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463040",
+    "stop_name": "Saint-Mand\u00e9",
+    "stop_lon": "2.4189897063438073",
+    "stop_lat": "48.84622934735893",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.4189897063438073,
+      "lat": 48.84622934735893
+    },
+    "nom_commune": "Saint-Mand\u00e9",
+    "code_insee": "94067"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463294",
+    "stop_name": "Reuilly - Diderot",
+    "stop_lon": "2.3858367760086865",
+    "stop_lat": "48.84734982784612",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3858367760086865,
+      "lat": 48.84734982784612
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463197",
+    "stop_name": "Gare de Lyon",
+    "stop_lon": "2.373125016776689",
+    "stop_lat": "48.84575948671397",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.373125016776689,
+      "lat": 48.84575948671397
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22089",
+    "stop_name": "Bastille",
+    "stop_lon": "2.368718961034089",
+    "stop_lat": "48.85205429349772",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.368718961034089,
+      "lat": 48.85205429349772
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22091",
+    "stop_name": "H\u00f4tel de Ville",
+    "stop_lon": "2.3520676701391",
+    "stop_lat": "48.85735240518587",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3520676701391,
+      "lat": 48.85735240518587
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463218",
+    "stop_name": "Louvre - Rivoli",
+    "stop_lon": "2.3409964272720227",
+    "stop_lat": "48.86090733426327",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3409964272720227,
+      "lat": 48.86090733426327
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:22078",
+    "stop_name": "Porte Maillot",
+    "stop_lon": "2.2825838473615496",
+    "stop_lat": "48.87816265364455",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2825838473615496,
+      "lat": 48.87816265364455
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01371",
+    "route_long_name": "1",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.pdf\", \"label\": \"Plan M\u00e9tro 1\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107769-C01371-ITI_IDFM_C01371_A_686781728\", \"from\": \"Ch\u00e2teau de Vincennes\", \"to\": \"La D\u00e9fense (Grande Arche)\", \"first\": \"05:30\", \"last\": \"01:39\"}, {\"routeId\": \"route:IDFM:RATP:544-C01371-2444059\", \"from\": \"La D\u00e9fense (Grande Arche)\", \"to\": \"Ch\u00e2teau de Vincennes\", \"first\": \"05:30\", \"last\": \"01:39\"}]",
+    "stop_id": "IDFM:463217",
+    "stop_name": "Les Sablons",
+    "stop_lon": "2.271904762259129",
+    "stop_lat": "48.88129083793358",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.271904762259129,
+      "lat": 48.88129083793358
+    },
+    "nom_commune": "Neuilly-sur-Seine",
+    "code_insee": "92051"
+  }
+]

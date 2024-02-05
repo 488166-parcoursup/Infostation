@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passage Tram T13</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body class="sncf">
+    <div class="menu">
+        <div>
+            <div class="logoLigne">
+                <svg class="tn-svg-line tn-svg-line--TRAM_T13 traffic-info-line-container__picto" viewBox="0 0 48 48"
+                    xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="height: 40px;">
+                    <path d="M11.9025 18.2118V33.3768H7.82209V18.2118H2.13318V14.8944H17.5914V18.2118H11.9025Z"
+                        class="svg-line-number--white"></path>
+                    <path
+                        d="M26.802 33.3599V18.8381C25.6846 19.7351 23.8899 20.5983 22.6708 21.1399L21.4179 18.3134C23.348 17.501 25.6845 16.2654 27.5131 14.8776H30.73V33.3599H26.802Z"
+                        class="svg-line-number--white"></path>
+                    <path
+                        d="M38.6539 33.8167C36.0126 33.8167 34.5396 33.1566 33.3036 32.4288L34.7428 29.5685C35.5216 30.1101 36.8084 30.7701 38.383 30.7701C40.5332 30.7701 41.8708 29.5177 41.8708 27.9436C41.8708 25.828 40.2454 25.0833 38.366 25.0833H36.4528V22.0198H38.383C40.1946 22.0198 41.312 21.072 41.312 19.6672C41.312 18.4824 40.4147 17.4161 38.4846 17.4161C36.7745 17.4161 35.657 18.2285 35.0475 18.7532L33.7099 16.0283C35.2845 14.9789 36.9777 14.3865 39.3142 14.3865C43.0899 14.3865 45.2401 16.6375 45.2401 19.0917C45.2401 21.0043 44.2242 22.5275 42.2602 23.2553V23.3061C44.3089 23.6954 45.8497 25.2694 45.8497 27.859C45.8497 31.1086 42.9544 33.8167 38.6539 33.8167Z"
+                        class="svg-line-number--white"></path>
+                    <path
+                        d="M45.5958 7.21017H2.40427C1.08363 7.21017 0 6.14389 0 4.8068V2.40342C0 1.08325 1.0667 0 2.40427 0H45.5958C46.9165 0 48 1.06632 48 2.40342V4.8068C47.9831 6.14389 46.9165 7.21017 45.5958 7.21017Z"
+                        fill="#8D5E2A"></path>
+                    <path
+                        d="M47.9832 45.5966V43.1932C47.9832 41.8731 46.9165 40.7898 45.5789 40.7898H2.40427C1.08363 40.7898 0 41.8561 0 43.1932V45.5966C0 46.9168 1.0667 48 2.40427 48H45.5958C46.9165 48 47.9832 46.9168 47.9832 45.5966Z"
+                        fill="#8D5E2A"></path>
+                </svg>
+            </div>
+            <h1 id="station"></h1>
+        </div>
+        <div style="display: flex; flex-direction: column;">
+            <form action="">
+                <input type="text" id="stationSearch" oninput="rechercherStation()" placeholder="Saint-Lazare, ...">
+                <ul id="stationSearchResults"></ul>
+                
+            </form>
+        </div>
+    </div>
+    <div id="horaires_s1">
+    </div>
+    <div id="horaires_s2">
+    </div>
+
+    <script src="./js/tram-13.js"></script>
+    <script>
+        function rechercherStation() {
+            const inputValue = document.getElementById('stationSearch').value.toLowerCase();
+            const resultsContainer = document.getElementById('stationSearchResults');
+            resultsContainer.innerHTML = '';
+
+            jsonArrets.forEach(arret => {
+                const stopNameLowerCase = arret.stop_name.toLowerCase();
+                if (stopNameLowerCase.includes(inputValue)) {
+                    const li = document.createElement('li');
+                    li.textContent = arret.stop_name;
+                    li.addEventListener('click', () => onStationClick(arret.stop_id, arret.stop_name));
+                    resultsContainer.appendChild(li);
+                }
+            });
+
+            if (resultsContainer.children.length > 0) {
+                resultsContainer.style.display = 'block';
+            } else {
+                resultsContainer.style.display = 'none';
+            }
+        }
+
+        function onStationClick(stopId, stopName) {
+            console.log(`Stop ID: ${extractStopId(stopId)}, Stop Name: ${stopName}`);
+            document.getElementById('stationSearch').value = stopName;
+            document.getElementById('stationSearchResults').style.display = 'none';
+            updateHorairesv2(extractStopId(stopId));
+            stop_Id = extractStopId(stopId);
+            localStorage.setItem("stop_id", extractStopId(stopId))
+            prochainTrain()
+        }
+
+        function extractStopId(stopId) {
+            return stopId.split(':').pop(); // Extraire la dernière partie après le dernier ":"
+        }
+    </script>
+</body>
+
+</html>

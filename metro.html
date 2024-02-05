@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!--
+    InfoStation
+    © 488166, Parcoursup
+    2024
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passage RER</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body style="margin: 0;">
+    <div class="menu">
+        <div>
+            <div class="logoLigne">
+                <img src="./img/lignes/metro/1.svg" alt="">
+            </div>
+            <h1 id="station"></h1>
+        </div>
+        <div style="display: flex; flex-direction: column;">
+            <form action="">
+                <label for="stationSearch" style="display:none">Rechercher une station</label>
+                <input type="text" id="stationSearch" oninput="rechercherStation()" placeholder="Auber, Nation, ...">
+                <ul id="stationSearchResults"></ul>
+            </form>
+        </div>
+    </div>
+    <div id="horaires" style="margin: .75rem;">
+    </div>
+    <div class="info-trafic ok" style="display: none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#009726" height="50px" style="padding:10px; ">
+            <path fill-rule="evenodd"
+                d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z"
+                clip-rule="evenodd" />
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ff0000" height="50px"
+            style="padding:10px; display:none">
+            <path fill-rule="evenodd"
+                d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
+                clip-rule="evenodd" />
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#db6300" height="50px"
+            style="padding:10px; display:none">
+            <path fill-rule="evenodd"
+                d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
+                clip-rule="evenodd" />
+        </svg>
+
+        <h1 style="margin: 0;">Trafic normal sur votre ligne.</h1>
+    </div>
+    <script src="./js/rer-a.js"></script>
+    <script src="./js/info-trafic.js"></script>
+</body>
+
+</html>

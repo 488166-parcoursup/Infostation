@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passage RER</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body class="sncf">
+    <div class="menu">
+        <div>
+            <div class="logoLigne">
+                <img src="./img/lignes/train-u.svg" alt="">
+            </div>
+            <h1 id="station"></h1>
+        </div>
+        <div style="display: flex; flex-direction: column;">
+            <form action="">
+                <label for="stationSearch"></label>
+                <input type="text" id="stationSearch" oninput="rechercherStation()" placeholder="La Défense, ...">
+                <ul id="stationSearchResults"></ul>
+                
+            </form>
+        </div>
+    </div>
+    <div id="horaires">
+    </div>
+
+    <script src="js/train-u.js"></script>
+    <script>
+
+        function rechercherStation() {
+            const inputValue = document.getElementById('stationSearch').value.toLowerCase();
+            const resultsContainer = document.getElementById('stationSearchResults');
+            resultsContainer.innerHTML = '';
+
+            jsonArrets.forEach(arret => {
+                const stopNameLowerCase = arret.stop_name.toLowerCase();
+                if (stopNameLowerCase.includes(inputValue)) {
+                    const li = document.createElement('li');
+                    li.textContent = arret.stop_name;
+                    li.addEventListener('click', () => onStationClick(arret.stop_id, arret.stop_name));
+                    resultsContainer.appendChild(li);
+                }
+            });
+
+            if (resultsContainer.children.length > 0) {
+                resultsContainer.style.display = 'block';
+            } else {
+                resultsContainer.style.display = 'none';
+            }
+        }
+
+        function onStationClick(stopId, stopName) {
+            console.log(`Stop ID: ${extractStopId(stopId)}, Stop Name: ${stopName}`);
+            document.getElementById('stationSearch').value = stopName;
+            document.getElementById('stationSearchResults').style.display = 'none';
+            updateHorairesv2(extractStopId(stopId));
+            stop_Id = extractStopId(stopId);
+            localStorage.setItem("stop_id", extractStopId(stopId))
+            prochainTrain()
+        }
+
+        function extractStopId(stopId) {
+            return stopId.split(':').pop(); // Extraire la dernière partie après le dernier ":"
+        }
+    </script>
+</body>
+
+</html>

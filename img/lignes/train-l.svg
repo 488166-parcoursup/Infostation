@@ -1,0 +1,8 @@
+<svg class="tn-svg-line tn-svg-line--LIGNE_L" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"
+    fill="#CEADD2" style="height: 40px;">
+    <path
+        d="M37.1979 48H10.8021C4.84232 48 0 43.1577 0 37.1979V10.8021C0 4.84234 4.84232 0 10.8021 0H37.1979C43.1577 0 48 4.84234 48 10.8021V37.1979C48 43.1577 43.1577 48 37.1979 48Z">
+</path>
+    <path d="M16.0508 36.69V11.2762H21.672V32.1186H31.9661V36.69H16.0508Z" fill="#000"
+        class="svg-line-number svg-line-number--inverted"></path>
+</svg>

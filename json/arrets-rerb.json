@@ -1,0 +1,801 @@
+[
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:46222",
+        "stop_name": "Vert Galant",
+        "stop_lon": "2.5663968806983126",
+        "stop_lat": "48.944091645418105",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5663968806983126,
+            "lat": 48.944091645418105
+        },
+        "nom_commune": "Villepinte",
+        "code_insee": "93078"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47889",
+        "stop_name": "Saint-R\u00e9my-l\u00e8s-Chevreuse",
+        "stop_lon": "2.071385742904064",
+        "stop_lat": "48.702732696472715",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.071385742904064,
+            "lat": 48.702732696472715
+        },
+        "nom_commune": "Saint-R\u00e9my-l\u00e8s-Chevreuse",
+        "code_insee": "78575"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47046",
+        "stop_name": "La Hacquini\u00e8re",
+        "stop_lon": "2.1516106103390045",
+        "stop_lat": "48.695299548452454",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1516106103390045,
+            "lat": 48.695299548452454
+        },
+        "nom_commune": "Bures-sur-Yvette",
+        "code_insee": "91122"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43086",
+        "stop_name": "Orsay Ville",
+        "stop_lon": "2.1808087044597166",
+        "stop_lat": "48.6975077019159",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1808087044597166,
+            "lat": 48.6975077019159
+        },
+        "nom_commune": "Orsay",
+        "code_insee": "91471"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:58774",
+        "stop_name": "Massy - Palaiseau",
+        "stop_lon": "2.2587677282577334",
+        "stop_lat": "48.72551907437078",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2587677282577334,
+            "lat": 48.72551907437078
+        },
+        "nom_commune": "Massy",
+        "code_insee": "91377"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43124",
+        "stop_name": "Fontaine Michalon",
+        "stop_lon": "2.2959559818374013",
+        "stop_lat": "48.74304953436299",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2959559818374013,
+            "lat": 48.74304953436299
+        },
+        "nom_commune": "Antony",
+        "code_insee": "92002"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43097",
+        "stop_name": "Bourg-la-Reine",
+        "stop_lon": "2.312278311834309",
+        "stop_lat": "48.78026436884244",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.312278311834309,
+            "lat": 48.78026436884244
+        },
+        "nom_commune": "Bourg-la-Reine",
+        "code_insee": "92014"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:44493",
+        "stop_name": "Bagneux",
+        "stop_lon": "2.3220087047421583",
+        "stop_lat": "48.79333690627149",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3220087047421583,
+            "lat": 48.79333690627149
+        },
+        "nom_commune": "Cachan",
+        "code_insee": "94016"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:473843",
+        "stop_name": "Cit\u00e9 Universitaire",
+        "stop_lon": "2.3388576809777035",
+        "stop_lat": "48.82150600684166",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3388576809777035,
+            "lat": 48.82150600684166
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43231",
+        "stop_name": "Le Bourget",
+        "stop_lon": "2.425825637815098",
+        "stop_lat": "48.930744340383264",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.425825637815098,
+            "lat": 48.930744340383264
+        },
+        "nom_commune": "Le Bourget",
+        "code_insee": "93013"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43122",
+        "stop_name": "Drancy",
+        "stop_lon": "2.454883180745302",
+        "stop_lat": "48.932732553959134",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.454883180745302,
+            "lat": 48.932732553959134
+        },
+        "nom_commune": "Drancy",
+        "code_insee": "93029"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:58793",
+        "stop_name": "Villepinte",
+        "stop_lon": "2.512783848981341",
+        "stop_lat": "48.96256540760733",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.512783848981341,
+            "lat": 48.96256540760733
+        },
+        "nom_commune": "Villepinte",
+        "code_insee": "93078"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:462398",
+        "stop_name": "A\u00e9roport CDG 1 (Terminal 3) - RER",
+        "stop_lon": "2.5614121946317394",
+        "stop_lat": "49.00979397116337",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5614121946317394,
+            "lat": 49.00979397116337
+        },
+        "nom_commune": "Tremblay-en-France",
+        "code_insee": "93073"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43194",
+        "stop_name": "Sevran - Livry",
+        "stop_lon": "2.5352889927291447",
+        "stop_lat": "48.93640164880271",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5352889927291447,
+            "lat": 48.93640164880271
+        },
+        "nom_commune": "Sevran",
+        "code_insee": "93071"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:474069",
+        "stop_name": "Loz\u00e8re",
+        "stop_lon": "2.212717641845953",
+        "stop_lat": "48.705912413627026",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.212717641845953,
+            "lat": 48.705912413627026
+        },
+        "nom_commune": "Palaiseau",
+        "code_insee": "91477"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47009",
+        "stop_name": "Palaiseau",
+        "stop_lon": "2.24558429554376",
+        "stop_lat": "48.71686524330362",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.24558429554376,
+            "lat": 48.71686524330362
+        },
+        "nom_commune": "Palaiseau",
+        "code_insee": "91477"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:45877",
+        "stop_name": "Gentilly",
+        "stop_lon": "2.340926830790754",
+        "stop_lat": "48.815228092611335",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.340926830790754,
+            "lat": 48.815228092611335
+        },
+        "nom_commune": "Gentilly",
+        "code_insee": "94037"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43833",
+        "stop_name": "Luxembourg",
+        "stop_lon": "2.3398088878203698",
+        "stop_lat": "48.84543177842458",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3398088878203698,
+            "lat": 48.84543177842458
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:44877",
+        "stop_name": "Saint-Michel Notre-Dame",
+        "stop_lon": "2.344959780029387",
+        "stop_lat": "48.853023793740164",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.344959780029387,
+            "lat": 48.853023793740164
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43193",
+        "stop_name": "Sevran Beaudottes",
+        "stop_lon": "2.5247262164471342",
+        "stop_lat": "48.94700236504643",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5247262164471342,
+            "lat": 48.94700236504643
+        },
+        "nom_commune": "Sevran",
+        "code_insee": "93071"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47878",
+        "stop_name": "Parc des Expositions",
+        "stop_lon": "2.5145512908225953",
+        "stop_lat": "48.97356812654279",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5145512908225953,
+            "lat": 48.97356812654279
+        },
+        "nom_commune": "Villepinte",
+        "code_insee": "93078"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43164",
+        "stop_name": "Mitry - Claye",
+        "stop_lon": "2.6422341369736606",
+        "stop_lat": "48.9757479508066",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.6422341369736606,
+            "lat": 48.9757479508066
+        },
+        "nom_commune": "Mitry-Mory",
+        "code_insee": "77294"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:46725",
+        "stop_name": "Villeparisis - Mitry-le-Neuf",
+        "stop_lon": "2.603220561532749",
+        "stop_lat": "48.95316214687084",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.603220561532749,
+            "lat": 48.95316214687084
+        },
+        "nom_commune": "Mitry-Mory",
+        "code_insee": "77294"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43125",
+        "stop_name": "Fontenay-aux-Roses",
+        "stop_lon": "2.2929083820455323",
+        "stop_lat": "48.78756698215643",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2929083820455323,
+            "lat": 48.78756698215643
+        },
+        "nom_commune": "Fontenay-aux-Roses",
+        "code_insee": "92032"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47052",
+        "stop_name": "Courcelle-sur-Yvette",
+        "stop_lon": "2.097722386795541",
+        "stop_lat": "48.70131367727702",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.097722386795541,
+            "lat": 48.70131367727702
+        },
+        "nom_commune": "Gif-sur-Yvette",
+        "code_insee": "91272"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43607",
+        "stop_name": "Laplace",
+        "stop_lon": "2.3343440158701894",
+        "stop_lat": "48.808360137202826",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3343440158701894,
+            "lat": 48.808360137202826
+        },
+        "nom_commune": "Arcueil",
+        "code_insee": "94003"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:473890",
+        "stop_name": "Denfert-Rochereau",
+        "stop_lon": "2.333220634641387",
+        "stop_lat": "48.83318643678081",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.333220634641387,
+            "lat": 48.83318643678081
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:45102",
+        "stop_name": "Ch\u00e2telet les Halles",
+        "stop_lon": "2.34697651043533",
+        "stop_lat": "48.86174503191322",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.34697651043533,
+            "lat": 48.86174503191322
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43140",
+        "stop_name": "La Courneuve - Aubervilliers",
+        "stop_lon": "2.3861140570949475",
+        "stop_lat": "48.92429743203911",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3861140570949475,
+            "lat": 48.92429743203911
+        },
+        "nom_commune": "La Courneuve",
+        "code_insee": "93027"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43232",
+        "stop_name": "Le Guichet",
+        "stop_lon": "2.1929739951487424",
+        "stop_lat": "48.705497380193584",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1929739951487424,
+            "lat": 48.705497380193584
+        },
+        "nom_commune": "Orsay",
+        "code_insee": "91471"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43175",
+        "stop_name": "Palaiseau - Villebon",
+        "stop_lon": "2.237329249708309",
+        "stop_lat": "48.7081489333421",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.237329249708309,
+            "lat": 48.7081489333421
+        },
+        "nom_commune": "Palaiseau",
+        "code_insee": "91477"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43177",
+        "stop_name": "Parc de Sceaux",
+        "stop_lon": "2.309934691589042",
+        "stop_lat": "48.769718949712896",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.309934691589042,
+            "lat": 48.769718949712896
+        },
+        "nom_commune": "Antony",
+        "code_insee": "92002"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:46163",
+        "stop_name": "Le Blanc-Mesnil",
+        "stop_lon": "2.4753884360764298",
+        "stop_lat": "48.93230698220945",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.4753884360764298,
+            "lat": 48.93230698220945
+        },
+        "nom_commune": "Le Blanc-Mesnil",
+        "code_insee": "93007"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43071",
+        "stop_name": "Aulnay-sous-Bois",
+        "stop_lon": "2.495597257086315",
+        "stop_lat": "48.932150935734064",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.495597257086315,
+            "lat": 48.932150935734064
+        },
+        "nom_commune": "Aulnay-sous-Bois",
+        "code_insee": "93005"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:59206",
+        "stop_name": "Sceaux",
+        "stop_lon": "2.2979282159439305",
+        "stop_lat": "48.781307920937515",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2979282159439305,
+            "lat": 48.781307920937515
+        },
+        "nom_commune": "Sceaux",
+        "code_insee": "92071"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43186",
+        "stop_name": "Robinson",
+        "stop_lon": "2.281364769669608",
+        "stop_lat": "48.78023982792202",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.281364769669608,
+            "lat": 48.78023982792202
+        },
+        "nom_commune": "Sceaux",
+        "code_insee": "92071"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47888",
+        "stop_name": "Gif-sur-Yvette",
+        "stop_lon": "2.136467766743371",
+        "stop_lat": "48.69816908612799",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.136467766743371,
+            "lat": 48.69816908612799
+        },
+        "nom_commune": "Gif-sur-Yvette",
+        "code_insee": "91272"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43103",
+        "stop_name": "Bures-sur-Yvette",
+        "stop_lon": "2.1643461393269345",
+        "stop_lat": "48.69621022314541",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.1643461393269345,
+            "lat": 48.69621022314541
+        },
+        "nom_commune": "Bures-sur-Yvette",
+        "code_insee": "91122"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:47940",
+        "stop_name": "Massy - Verri\u00e8res",
+        "stop_lon": "2.2739511484048442",
+        "stop_lat": "48.73498926809152",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.2739511484048442,
+            "lat": 48.73498926809152
+        },
+        "nom_commune": "Massy",
+        "code_insee": "91377"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43228",
+        "stop_name": "Les Baconnets",
+        "stop_lon": "2.288108127151424",
+        "stop_lat": "48.73984612871272",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.288108127151424,
+            "lat": 48.73984612871272
+        },
+        "nom_commune": "Antony",
+        "code_insee": "92002"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43066",
+        "stop_name": "Antony",
+        "stop_lon": "2.300890371505836",
+        "stop_lat": "48.754632057173126",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.300890371505836,
+            "lat": 48.754632057173126
+        },
+        "nom_commune": "Antony",
+        "code_insee": "92002"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:46007",
+        "stop_name": "La Croix de Berny",
+        "stop_lon": "2.3042107053612133",
+        "stop_lat": "48.76171816323692",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3042107053612133,
+            "lat": 48.76171816323692
+        },
+        "nom_commune": "Antony",
+        "code_insee": "92002"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43067",
+        "stop_name": "Arcueil - Cachan",
+        "stop_lon": "2.328093276131277",
+        "stop_lat": "48.79869767228883",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.328093276131277,
+            "lat": 48.79869767228883
+        },
+        "nom_commune": "Cachan",
+        "code_insee": "94016"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:44500",
+        "stop_name": "Port Royal",
+        "stop_lon": "2.3371383995944486",
+        "stop_lat": "48.840064350218256",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.3371383995944486,
+            "lat": 48.840064350218256
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:462394",
+        "stop_name": "Gare du Nord",
+        "stop_lon": "2.356693437528564",
+        "stop_lat": "48.88230685842714",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.356693437528564,
+            "lat": 48.88230685842714
+        },
+        "nom_commune": "Paris",
+        "code_insee": "75056"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:43145",
+        "stop_name": "La Plaine Stade de France",
+        "stop_lon": "2.362459916604931",
+        "stop_lat": "48.918076675621",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.362459916604931,
+            "lat": 48.918076675621
+        },
+        "nom_commune": "Saint-Denis",
+        "code_insee": "93066"
+    },
+    {
+        "id": "IDFM:C01743",
+        "route_long_name": "B",
+        "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-b.pdf\", \"label\": \"Plan de la ligne RER B\"}]",
+        "schedules": null,
+        "stop_id": "IDFM:monomodalStopPlace:473364",
+        "stop_name": "A\u00e9roport Charles de Gaulle 2 (Terminal 2)",
+        "stop_lon": "2.5709800477570233",
+        "stop_lat": "49.0041455478504",
+        "operatorname": "SNCF",
+        "pointgeo": {
+            "lon": 2.5709800477570233,
+            "lat": 49.0041455478504
+        },
+        "nom_commune": "Tremblay-en-France",
+        "code_insee": "93073"
+    }
+]

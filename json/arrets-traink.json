@@ -1,0 +1,172 @@
+[
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46736",
+    "stop_name": "Dammartin - Juilly - Saint-Mard",
+    "stop_lon": "2.699046819624294",
+    "stop_lat": "49.03215183565455",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.699046819624294,
+      "lat": 49.03215183565455
+    },
+    "nom_commune": "Saint-Mard",
+    "code_insee": "77420"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43164",
+    "stop_name": "Mitry - Claye",
+    "stop_lon": "2.6422341369736606",
+    "stop_lat": "48.9757479508066",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6422341369736606,
+      "lat": 48.9757479508066
+    },
+    "nom_commune": "Mitry-Mory",
+    "code_insee": "77294"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411405",
+    "stop_name": "Le Plessis-Belleville",
+    "stop_lon": "2.745036686332378",
+    "stop_lat": "49.09632467804431",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.745036686332378,
+      "lat": 49.09632467804431
+    },
+    "nom_commune": "Le Plessis-Belleville",
+    "code_insee": "60500"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43071",
+    "stop_name": "Aulnay-sous-Bois",
+    "stop_lon": "2.495597257086315",
+    "stop_lat": "48.932150935734064",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.495597257086315,
+      "lat": 48.932150935734064
+    },
+    "nom_commune": "Aulnay-sous-Bois",
+    "code_insee": "93005"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:462394",
+    "stop_name": "Paris Nord",
+    "stop_lon": "2.356693437528564",
+    "stop_lat": "48.88230685842714",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.356693437528564,
+      "lat": 48.88230685842714
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411396",
+    "stop_name": "Cr\u00e9py-en-Valois",
+    "stop_lon": "2.8880999806451184",
+    "stop_lat": "49.23108254935135",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.8880999806451184,
+      "lat": 49.23108254935135
+    },
+    "nom_commune": "Cr\u00e9py-en-Valois",
+    "code_insee": "60176"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411390",
+    "stop_name": "Nanteuil-le-Haudouin",
+    "stop_lon": "2.7941647655566535",
+    "stop_lat": "49.14251123380041",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7941647655566535,
+      "lat": 49.14251123380041
+    },
+    "nom_commune": "Nanteuil-le-Haudouin",
+    "code_insee": "60446"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411387",
+    "stop_name": "Ormoy-Villers",
+    "stop_lon": "2.8379866073485736",
+    "stop_lat": "49.20071099536894",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.8379866073485736,
+      "lat": 49.20071099536894
+    },
+    "nom_commune": "Ormoy-Villers",
+    "code_insee": "60479"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47960",
+    "stop_name": "Thieux - Nantouillet",
+    "stop_lon": "2.6802537675802913",
+    "stop_lat": "49.00813565335945",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6802537675802913,
+      "lat": 49.00813565335945
+    },
+    "nom_commune": "Thieux",
+    "code_insee": "77462"
+  },
+  {
+    "id": "IDFM:C01738",
+    "route_long_name": "K",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-k.pdf\", \"label\": \"Plan de la ligne SNCF Transilien K\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3411d804-7c19-3f06-9bad-8ab5cc79b40a\", \"from\": \"Cr\u00e9py-en-Valois\", \"to\": \"Mitry - Claye\", \"first\": \"06:41\", \"last\": \"20:13\"}, {\"routeId\": \"route:IDFM:SNCF:1cbfeb91-9b87-39ed-91f4-4bf5ccf7494a\", \"from\": \"Mitry - Claye\", \"to\": \"Cr\u00e9py-en-Valois\", \"first\": \"07:05\", \"last\": \"23:05\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46731",
+    "stop_name": "Compans",
+    "stop_lon": "2.6649599355374893",
+    "stop_lat": "48.99132968756663",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6649599355374893,
+      "lat": 48.99132968756663
+    },
+    "nom_commune": "Compans",
+    "code_insee": "77123"
+  }
+]

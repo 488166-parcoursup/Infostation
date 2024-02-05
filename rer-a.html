@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passage RER</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body style="margin: 0;">
+<div class="menu">
+    <div>
+        <div class="logoLigne">
+            <img src="./img/lignes/rer-a.svg" alt="">
+        </div>
+        <h1 id="station"></h1>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <form action="">
+            <label for="stationSearch" style="display:none">Rechercher une station</label>
+            <input type="text" id="stationSearch" oninput="rechercherStation()" placeholder="Auber, Nation, ...">
+            <ul id="stationSearchResults"></ul>
+        </form>
+    </div>
+</div>
+<div id="horaires" style="margin: .75rem;">
+</div>
+<div class="info-trafic ok" style="display: none">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#009726" height="50px" style="padding:10px; ">
+        <path fill-rule="evenodd"
+              d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z"
+              clip-rule="evenodd"/>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ff0000" height="50px"
+         style="padding:10px; display:none">
+        <path fill-rule="evenodd"
+              d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
+              clip-rule="evenodd"/>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#db6300" height="50px"
+         style="padding:10px; display:none">
+        <path fill-rule="evenodd"
+              d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
+              clip-rule="evenodd"/>
+    </svg>
+
+    <h1 style="margin: 0;">Trafic normal sur votre ligne.</h1>
+</div>
+<script src="./js/app.js"></script>
+<script src="./js/rer-a.js"></script>
+<style>
+    .connect-wifi {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        margin: 1rem;
+        padding: 1rem 1rem;
+        height: 40px !important;
+        border-radius: 50em;
+        background: rgba(217, 217, 217, 0.85);
+    }
+
+    .connect-wifi {
+        background: #f696a0;
+    }
+
+    .connect-wifi .bi {
+        fill: #a60316;
+    }
+</style>
+<div class="connect-wifi" id="icone-wifi">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" class="bi bi-wifi"
+         viewBox="0 0 16 16">
+        <path d="M15.384 6.115a.485.485 0 0 0-.047-.736A12.44 12.44 0 0 0 8 3C5.259 3 2.723 3.882.663 5.379a.485.485 0 0 0-.048.736.52.52 0 0 0 .668.05A11.45 11.45 0 0 1 8 4c2.507 0 4.827.802 6.716 2.164.205.148.49.13.668-.049"/>
+        <path d="M13.229 8.271a.482.482 0 0 0-.063-.745A9.46 9.46 0 0 0 8 6c-1.905 0-3.68.56-5.166 1.526a.48.48 0 0 0-.063.745.525.525 0 0 0 .652.065A8.46 8.46 0 0 1 8 7a8.46 8.46 0 0 1 4.576 1.336c.206.132.48.108.653-.065m-2.183 2.183c.226-.226.185-.605-.1-.75A6.5 6.5 0 0 0 8 9c-1.06 0-2.062.254-2.946.704-.285.145-.326.524-.1.75l.015.015c.16.16.407.19.611.09A5.5 5.5 0 0 1 8 10c.868 0 1.69.201 2.42.56.203.1.45.07.61-.091zM9.06 12.44c.196-.196.198-.52-.04-.66A2 2 0 0 0 8 11.5a2 2 0 0 0-1.02.28c-.238.14-.236.464-.04.66l.706.706a.5.5 0 0 0 .707 0l.707-.707z"/>
+    </svg>
+</div>
+</body>
+
+</html>

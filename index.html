@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InfoStation</title>
+    <link rel="stylesheet" href="./css/app.css">
+    <style>
+        .tile-row {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: stretch;
+            gap: 40px 9px;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .tile-row:last-child {
+            margin-bottom: 5rem;
+        }
+
+        .tile-line {
+            width: 250px;
+            background: #e5e5e5;
+            padding: 2rem 1.2rem;
+            height: 280px;
+            border-radius: 2rem;
+            box-shadow: 0 0 0.75rem #00000029;
+            transition: all 1s ease-in-out;
+            position: relative;
+        }
+
+        .tile-line a {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-content: center;
+            justify-content: flex-start;
+            align-items: flex-start;
+        }
+
+        .tile-line:after {
+            content: "";
+            display: none;
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            background: red;
+        }
+
+        .tile-line:hover {
+            transform: scale(1.04);
+            box-shadow: 0 0 2rem #00000029;
+        }
+
+        .line-logo {
+            width: 120px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .unactive {
+            background-color: #ffd0d0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000;
+        }
+    </style>
+</head>
+
+<body>
+<div class="menu">
+    <div>
+        <div class="logoLigne" style="margin-left: 1rem;">
+            <img src="./img/idfm.svg" alt="" height="40">
+            <div class="dot"></div>
+        </div>
+        <h1>- InfoStation</h1>
+    </div>
+</div>
+
+<main>
+    <div>
+        <h1 class="center big" id="dot">Bienvenue sur InfoStation !</h1>
+        <p class="big center">Des écrans des prochains passages des trains dans votre gare !</p>
+    </div>
+    <h1>Les lignes RER : </h1>
+    <div class="tile-row">
+        <div class="tile-line">
+            <a href="rer-a.html">
+                <img src="./img/lignes/rer-a.svg" class="line-logo" alt="">
+                <h1>RER A</h1>
+                <p class="line-direction">Cergy-le-Haut | Poissy | St Germain en Laye</p>
+                <p class="line-direction">Marne-la-Vallée - Chessy | Boissy-St-Léger</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="rer-b.html">
+                <img src="./img/lignes/rer-b.svg" class="line-logo" alt="">
+                <h1>RER B</h1>
+                <p class="line-direction">Aéroport CDG 2 | Mitry-Claye</p>
+                <p class="line-direction">Robinson | Saint-Rémy-lès-Chevreuse</p>
+            </a>
+        </div>
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/rer-c.svg" class="line-logo" alt="">
+                <h1>RER C</h1>
+                <p class="line-direction">Pontoise | Montigny - Beauchamp</p>
+                <p class="line-direction">Massy | Dourdan | Versailles-RG | St-Martin-d'Étampes | St-Quentin-en-Yvelines
+                    | Juvisy</p>
+            </a>
+        </div>
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/rer-d.svg" class="line-logo" alt="">
+                <h1>RER D</h1>
+                <p class="line-direction">Creil | Goussainville | </p>
+                <p class="line-direction">Melun | Corbeil-Essonnes | Juvisy | Malesherbes</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="./rer-e.html">
+                <img src="./img/lignes/rer-e.svg" class="line-logo" alt="">
+                <h1>RER E</h1>
+                <p class="line-direction">Hausmann-St-Lazare (Paris-Est)</p>
+                <p class="line-direction">Chelles-Gournay | Tournan</p>
+            </a>
+        </div>
+    </div>
+    <h1 style="margin-top: 3rem">Les lignes Transilien : </h1>
+    <div class="tile-row">
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/train-h.svg" class="line-logo" alt="">
+                <h1>Ligne H</h1>
+                <p class="line-direction">Luzarches | Pontoise | Persan-Beaumont | Creil</p>
+                <p class="line-direction">Paris Gare du Nord</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="train-j.html">
+                <img src="./img/lignes/train-j.svg" class="line-logo" alt="">
+                <h1>Ligne J</h1>
+                <p class="line-direction">Mantes-la-Jolie | Gisors | Ermont-Eaubonne</p>
+                <p class="line-direction">Paris Saint Lazare</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="./train-k.html">
+                <img src="./img/lignes/train-k.svg" class="line-logo" alt="">
+                <h1>Ligne K </h1>
+                <p class="line-direction">Paris Gare du Nord</p>
+                <p class="line-direction">Crépy en Valois</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="train-l.html">
+                <img src="./img/lignes/train-l.svg" class="line-logo" alt="">
+                <h1>Ligne L</h1>
+                <p class="line-direction">Cergy-le-Haut | St Nom | Versailles-RD</p>
+                <p class="line-direction">Paris Saint Lazare</p>
+            </a>
+        </div>
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/train-n.svg" class="line-logo" alt="">
+                <h1>Ligne N</h1>
+                <p class="line-direction">Rambouillet | Mantes-la-Jolie | Dreux</p>
+                <p class="line-direction">Paris Montparnasse</p>
+            </a>
+        </div>
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/train-p.svg" class="line-logo" alt="">
+                <h1>Ligne P</h1>
+                <p class="line-direction">Paris Gare de l'Est</p>
+                <p class="line-direction">Meaux | La Ferté-Milon | Château-Thierry | Coulommiers | Provins | Esbly |
+                    Crécy-la-Chapelle</p>
+            </a>
+        </div>
+        <div class="tile-line unactive">
+            <a href="./index.html?error=0">
+                <img src="./img/lignes/train-r.svg" class="line-logo" alt="">
+                <h1>Ligne R</h1>
+                <p class="line-direction">Paris Gare de Lyon</p>
+                <p class="line-direction">Montargis | Montereau | Melun</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="./train-u.html">
+                <img src="./img/lignes/train-u.svg" class="line-logo" alt="">
+                <h1>Ligne U</h1>
+                <p class="line-direction">La Verrière</p>
+                <p class="line-direction">La Défense</p>
+            </a>
+        </div>
+        <div class="tile-line">
+            <a href="./train-v.html">
+                <img src="./img/lignes/train-v.svg" class="line-logo" alt="">
+                <h1>Ligne V</h1>
+                <small>Rattachée au RER C.</small>
+                <p class="line-direction">Versailles Chantiers</p>
+                <p class="line-direction">Massy-Palaiseau</p>
+            </a>
+        </div>
+    </div>
+    <h1 style="margin-top: 3rem">Les lignes Métro : </h1>
+    <div class="tile-row">
+        <div class="tile-line">
+            <a href="./metro.html?line-1">
+                <img src="./img/lignes/metro/1.svg" class="line-logo" alt="">
+                <h1>Métro 1</h1>
+                <p class="line-direction">La Défense (Grande Arche)</p>
+                <p class="line-direction">Château de Vincennes</p>
+            </a>
+        </div>
+    </div>
+</main>
+
+</body>
+
+</html>
