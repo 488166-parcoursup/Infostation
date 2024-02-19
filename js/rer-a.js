@@ -12,7 +12,7 @@ function updateHorairesv2(stopId = 45102) {
 
     const headers = {
         'Accept': 'application/json',
-        'apikey': "SA2gwXmU8tMANuVvb1cei7oQc3FjEGOQ"
+        'apikey': ""
     };
 
     const xhr = new XMLHttpRequest();
